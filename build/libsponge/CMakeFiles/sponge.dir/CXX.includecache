@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hongyk/sponge/libsponge/byte_stream.hh
+string
+-
+vector
+-
+
+/home/hongyk/sponge/libsponge/stream_reassembler.cc
+stream_reassembler.hh
+/home/hongyk/sponge/libsponge/stream_reassembler.hh
+
+/home/hongyk/sponge/libsponge/stream_reassembler.hh
+byte_stream.hh
+/home/hongyk/sponge/libsponge/byte_stream.hh
+cstdint
+-
+string
+-
+map
+-
+algorithm
+-
+iostream
+-
+

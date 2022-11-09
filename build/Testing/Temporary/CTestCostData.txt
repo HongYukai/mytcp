@@ -1,0 +1,18 @@
+t_webget 36 0.0314551
+t_byte_stream_construction 84 3.4894e-05
+t_byte_stream_one_write 81 7.74357e-05
+t_byte_stream_two_writes 88 7.76192e-05
+t_byte_stream_capacity 88 0.00591272
+t_byte_stream_many_writes 99 0.000153614
+t_address_dt 99 9.67433e-05
+t_parser_dt 105 4.85218e-05
+t_socket_dt 105 7.42894e-05
+t_strm_reassem_single 27 0.0001175
+t_strm_reassem_seq 64 6.43062e-05
+t_strm_reassem_dup 60 0.000142608
+t_strm_reassem_holes 27 0.000120492
+t_strm_reassem_many 30 0.0304688
+t_strm_reassem_overlapping 31 0.000155032
+t_strm_reassem_win 28 0.0526979
+t_strm_reassem_cap 28 0.00384876
+---
