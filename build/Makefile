@@ -56,17 +56,6 @@ CMAKE_BINARY_DIR = /home/hongyk/sponge/build
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-
-.PHONY : edit_cache/fast
-
 # Special rule for the target test
 test:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running tests..."
@@ -88,6 +77,17 @@ rebuild_cache:
 rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -122,110 +122,6 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named check
-
-# Build rule for target.
-check: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check
-.PHONY : check
-
-# fast build rule for target.
-check/fast:
-	$(MAKE) -f CMakeFiles/check.dir/build.make CMakeFiles/check.dir/build
-.PHONY : check/fast
-
-#=============================================================================
-# Target rules for targets named check_lab6
-
-# Build rule for target.
-check_lab6: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check_lab6
-.PHONY : check_lab6
-
-# fast build rule for target.
-check_lab6/fast:
-	$(MAKE) -f CMakeFiles/check_lab6.dir/build.make CMakeFiles/check_lab6.dir/build
-.PHONY : check_lab6/fast
-
-#=============================================================================
-# Target rules for targets named check_lab3
-
-# Build rule for target.
-check_lab3: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check_lab3
-.PHONY : check_lab3
-
-# fast build rule for target.
-check_lab3/fast:
-	$(MAKE) -f CMakeFiles/check_lab3.dir/build.make CMakeFiles/check_lab3.dir/build
-.PHONY : check_lab3/fast
-
-#=============================================================================
-# Target rules for targets named check_lab2
-
-# Build rule for target.
-check_lab2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check_lab2
-.PHONY : check_lab2
-
-# fast build rule for target.
-check_lab2/fast:
-	$(MAKE) -f CMakeFiles/check_lab2.dir/build.make CMakeFiles/check_lab2.dir/build
-.PHONY : check_lab2/fast
-
-#=============================================================================
-# Target rules for targets named check_lab5
-
-# Build rule for target.
-check_lab5: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check_lab5
-.PHONY : check_lab5
-
-# fast build rule for target.
-check_lab5/fast:
-	$(MAKE) -f CMakeFiles/check_lab5.dir/build.make CMakeFiles/check_lab5.dir/build
-.PHONY : check_lab5/fast
-
-#=============================================================================
-# Target rules for targets named check_lab4
-
-# Build rule for target.
-check_lab4: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check_lab4
-.PHONY : check_lab4
-
-# fast build rule for target.
-check_lab4/fast:
-	$(MAKE) -f CMakeFiles/check_lab4.dir/build.make CMakeFiles/check_lab4.dir/build
-.PHONY : check_lab4/fast
-
-#=============================================================================
-# Target rules for targets named check_lab1
-
-# Build rule for target.
-check_lab1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check_lab1
-.PHONY : check_lab1
-
-# fast build rule for target.
-check_lab1/fast:
-	$(MAKE) -f CMakeFiles/check_lab1.dir/build.make CMakeFiles/check_lab1.dir/build
-.PHONY : check_lab1/fast
-
-#=============================================================================
-# Target rules for targets named check_lab0
-
-# Build rule for target.
-check_lab0: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check_lab0
-.PHONY : check_lab0
-
-# fast build rule for target.
-check_lab0/fast:
-	$(MAKE) -f CMakeFiles/check_lab0.dir/build.make CMakeFiles/check_lab0.dir/build
-.PHONY : check_lab0/fast
-
-#=============================================================================
 # Target rules for targets named check_webget
 
 # Build rule for target.
@@ -250,6 +146,123 @@ format: cmake_check_build_system
 format/fast:
 	$(MAKE) -f CMakeFiles/format.dir/build.make CMakeFiles/format.dir/build
 .PHONY : format/fast
+
+#=============================================================================
+# Target rules for targets named check_lab0
+
+# Build rule for target.
+check_lab0: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 check_lab0
+.PHONY : check_lab0
+
+# fast build rule for target.
+check_lab0/fast:
+	$(MAKE) -f CMakeFiles/check_lab0.dir/build.make CMakeFiles/check_lab0.dir/build
+.PHONY : check_lab0/fast
+
+#=============================================================================
+# Target rules for targets named check_lab1
+
+# Build rule for target.
+check_lab1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 check_lab1
+.PHONY : check_lab1
+
+# fast build rule for target.
+check_lab1/fast:
+	$(MAKE) -f CMakeFiles/check_lab1.dir/build.make CMakeFiles/check_lab1.dir/build
+.PHONY : check_lab1/fast
+
+#=============================================================================
+# Target rules for targets named check_lab4
+
+# Build rule for target.
+check_lab4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 check_lab4
+.PHONY : check_lab4
+
+# fast build rule for target.
+check_lab4/fast:
+	$(MAKE) -f CMakeFiles/check_lab4.dir/build.make CMakeFiles/check_lab4.dir/build
+.PHONY : check_lab4/fast
+
+#=============================================================================
+# Target rules for targets named check_lab5
+
+# Build rule for target.
+check_lab5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 check_lab5
+.PHONY : check_lab5
+
+# fast build rule for target.
+check_lab5/fast:
+	$(MAKE) -f CMakeFiles/check_lab5.dir/build.make CMakeFiles/check_lab5.dir/build
+.PHONY : check_lab5/fast
+
+#=============================================================================
+# Target rules for targets named check_lab2
+
+# Build rule for target.
+check_lab2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 check_lab2
+.PHONY : check_lab2
+
+# fast build rule for target.
+check_lab2/fast:
+	$(MAKE) -f CMakeFiles/check_lab2.dir/build.make CMakeFiles/check_lab2.dir/build
+.PHONY : check_lab2/fast
+
+#=============================================================================
+# Target rules for targets named check_lab3
+
+# Build rule for target.
+check_lab3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 check_lab3
+.PHONY : check_lab3
+
+# fast build rule for target.
+check_lab3/fast:
+	$(MAKE) -f CMakeFiles/check_lab3.dir/build.make CMakeFiles/check_lab3.dir/build
+.PHONY : check_lab3/fast
+
+#=============================================================================
+# Target rules for targets named doc
+
+# Build rule for target.
+doc: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 doc
+.PHONY : doc
+
+# fast build rule for target.
+doc/fast:
+	$(MAKE) -f CMakeFiles/doc.dir/build.make CMakeFiles/doc.dir/build
+.PHONY : doc/fast
+
+#=============================================================================
+# Target rules for targets named check_lab6
+
+# Build rule for target.
+check_lab6: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 check_lab6
+.PHONY : check_lab6
+
+# fast build rule for target.
+check_lab6/fast:
+	$(MAKE) -f CMakeFiles/check_lab6.dir/build.make CMakeFiles/check_lab6.dir/build
+.PHONY : check_lab6/fast
+
+#=============================================================================
+# Target rules for targets named check
+
+# Build rule for target.
+check: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 check
+.PHONY : check
+
+# fast build rule for target.
+check/fast:
+	$(MAKE) -f CMakeFiles/check.dir/build.make CMakeFiles/check.dir/build
+.PHONY : check/fast
 
 #=============================================================================
 # Target rules for targets named sponge
@@ -278,6 +291,97 @@ webget/fast:
 .PHONY : webget/fast
 
 #=============================================================================
+# Target rules for targets named recv_close
+
+# Build rule for target.
+recv_close: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_close
+.PHONY : recv_close
+
+# fast build rule for target.
+recv_close/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_close.dir/build.make tests/CMakeFiles/recv_close.dir/build
+.PHONY : recv_close/fast
+
+#=============================================================================
+# Target rules for targets named recv_transmit
+
+# Build rule for target.
+recv_transmit: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_transmit
+.PHONY : recv_transmit
+
+# fast build rule for target.
+recv_transmit/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_transmit.dir/build.make tests/CMakeFiles/recv_transmit.dir/build
+.PHONY : recv_transmit/fast
+
+#=============================================================================
+# Target rules for targets named recv_connect
+
+# Build rule for target.
+recv_connect: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_connect
+.PHONY : recv_connect
+
+# fast build rule for target.
+recv_connect/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_connect.dir/build.make tests/CMakeFiles/recv_connect.dir/build
+.PHONY : recv_connect/fast
+
+#=============================================================================
+# Target rules for targets named wrapping_integers_wrap
+
+# Build rule for target.
+wrapping_integers_wrap: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wrapping_integers_wrap
+.PHONY : wrapping_integers_wrap
+
+# fast build rule for target.
+wrapping_integers_wrap/fast:
+	$(MAKE) -f tests/CMakeFiles/wrapping_integers_wrap.dir/build.make tests/CMakeFiles/wrapping_integers_wrap.dir/build
+.PHONY : wrapping_integers_wrap/fast
+
+#=============================================================================
+# Target rules for targets named wrapping_integers_unwrap
+
+# Build rule for target.
+wrapping_integers_unwrap: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wrapping_integers_unwrap
+.PHONY : wrapping_integers_unwrap
+
+# fast build rule for target.
+wrapping_integers_unwrap/fast:
+	$(MAKE) -f tests/CMakeFiles/wrapping_integers_unwrap.dir/build.make tests/CMakeFiles/wrapping_integers_unwrap.dir/build
+.PHONY : wrapping_integers_unwrap/fast
+
+#=============================================================================
+# Target rules for targets named wrapping_integers_cmp
+
+# Build rule for target.
+wrapping_integers_cmp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wrapping_integers_cmp
+.PHONY : wrapping_integers_cmp
+
+# fast build rule for target.
+wrapping_integers_cmp/fast:
+	$(MAKE) -f tests/CMakeFiles/wrapping_integers_cmp.dir/build.make tests/CMakeFiles/wrapping_integers_cmp.dir/build
+.PHONY : wrapping_integers_cmp/fast
+
+#=============================================================================
+# Target rules for targets named byte_stream_capacity
+
+# Build rule for target.
+byte_stream_capacity: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 byte_stream_capacity
+.PHONY : byte_stream_capacity
+
+# fast build rule for target.
+byte_stream_capacity/fast:
+	$(MAKE) -f tests/CMakeFiles/byte_stream_capacity.dir/build.make tests/CMakeFiles/byte_stream_capacity.dir/build
+.PHONY : byte_stream_capacity/fast
+
+#=============================================================================
 # Target rules for targets named spongechecks
 
 # Build rule for target.
@@ -289,6 +393,97 @@ spongechecks: cmake_check_build_system
 spongechecks/fast:
 	$(MAKE) -f tests/CMakeFiles/spongechecks.dir/build.make tests/CMakeFiles/spongechecks.dir/build
 .PHONY : spongechecks/fast
+
+#=============================================================================
+# Target rules for targets named tcp_parser
+
+# Build rule for target.
+tcp_parser: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 tcp_parser
+.PHONY : tcp_parser
+
+# fast build rule for target.
+tcp_parser/fast:
+	$(MAKE) -f tests/CMakeFiles/tcp_parser.dir/build.make tests/CMakeFiles/tcp_parser.dir/build
+.PHONY : tcp_parser/fast
+
+#=============================================================================
+# Target rules for targets named recv_special
+
+# Build rule for target.
+recv_special: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_special
+.PHONY : recv_special
+
+# fast build rule for target.
+recv_special/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_special.dir/build.make tests/CMakeFiles/recv_special.dir/build
+.PHONY : recv_special/fast
+
+#=============================================================================
+# Target rules for targets named recv_window
+
+# Build rule for target.
+recv_window: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_window
+.PHONY : recv_window
+
+# fast build rule for target.
+recv_window/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_window.dir/build.make tests/CMakeFiles/recv_window.dir/build
+.PHONY : recv_window/fast
+
+#=============================================================================
+# Target rules for targets named byte_stream_many_writes
+
+# Build rule for target.
+byte_stream_many_writes: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 byte_stream_many_writes
+.PHONY : byte_stream_many_writes
+
+# fast build rule for target.
+byte_stream_many_writes/fast:
+	$(MAKE) -f tests/CMakeFiles/byte_stream_many_writes.dir/build.make tests/CMakeFiles/byte_stream_many_writes.dir/build
+.PHONY : byte_stream_many_writes/fast
+
+#=============================================================================
+# Target rules for targets named fsm_stream_reassembler_cap
+
+# Build rule for target.
+fsm_stream_reassembler_cap: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 fsm_stream_reassembler_cap
+.PHONY : fsm_stream_reassembler_cap
+
+# fast build rule for target.
+fsm_stream_reassembler_cap/fast:
+	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_cap.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_cap.dir/build
+.PHONY : fsm_stream_reassembler_cap/fast
+
+#=============================================================================
+# Target rules for targets named byte_stream_one_write
+
+# Build rule for target.
+byte_stream_one_write: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 byte_stream_one_write
+.PHONY : byte_stream_one_write
+
+# fast build rule for target.
+byte_stream_one_write/fast:
+	$(MAKE) -f tests/CMakeFiles/byte_stream_one_write.dir/build.make tests/CMakeFiles/byte_stream_one_write.dir/build
+.PHONY : byte_stream_one_write/fast
+
+#=============================================================================
+# Target rules for targets named wrapping_integers_roundtrip
+
+# Build rule for target.
+wrapping_integers_roundtrip: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wrapping_integers_roundtrip
+.PHONY : wrapping_integers_roundtrip
+
+# fast build rule for target.
+wrapping_integers_roundtrip/fast:
+	$(MAKE) -f tests/CMakeFiles/wrapping_integers_roundtrip.dir/build.make tests/CMakeFiles/wrapping_integers_roundtrip.dir/build
+.PHONY : wrapping_integers_roundtrip/fast
 
 #=============================================================================
 # Target rules for targets named fsm_stream_reassembler_single
@@ -328,19 +523,6 @@ fsm_stream_reassembler_dup: cmake_check_build_system
 fsm_stream_reassembler_dup/fast:
 	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_dup.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_dup.dir/build
 .PHONY : fsm_stream_reassembler_dup/fast
-
-#=============================================================================
-# Target rules for targets named byte_stream_capacity
-
-# Build rule for target.
-byte_stream_capacity: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 byte_stream_capacity
-.PHONY : byte_stream_capacity
-
-# fast build rule for target.
-byte_stream_capacity/fast:
-	$(MAKE) -f tests/CMakeFiles/byte_stream_capacity.dir/build.make tests/CMakeFiles/byte_stream_capacity.dir/build
-.PHONY : byte_stream_capacity/fast
 
 #=============================================================================
 # Target rules for targets named fsm_stream_reassembler_holes
@@ -395,6 +577,19 @@ fsm_stream_reassembler_overlapping/fast:
 .PHONY : fsm_stream_reassembler_overlapping/fast
 
 #=============================================================================
+# Target rules for targets named recv_reorder
+
+# Build rule for target.
+recv_reorder: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_reorder
+.PHONY : recv_reorder
+
+# fast build rule for target.
+recv_reorder/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_reorder.dir/build.make tests/CMakeFiles/recv_reorder.dir/build
+.PHONY : recv_reorder/fast
+
+#=============================================================================
 # Target rules for targets named fsm_stream_reassembler_win
 
 # Build rule for target.
@@ -406,45 +601,6 @@ fsm_stream_reassembler_win: cmake_check_build_system
 fsm_stream_reassembler_win/fast:
 	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_win.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_win.dir/build
 .PHONY : fsm_stream_reassembler_win/fast
-
-#=============================================================================
-# Target rules for targets named byte_stream_many_writes
-
-# Build rule for target.
-byte_stream_many_writes: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 byte_stream_many_writes
-.PHONY : byte_stream_many_writes
-
-# fast build rule for target.
-byte_stream_many_writes/fast:
-	$(MAKE) -f tests/CMakeFiles/byte_stream_many_writes.dir/build.make tests/CMakeFiles/byte_stream_many_writes.dir/build
-.PHONY : byte_stream_many_writes/fast
-
-#=============================================================================
-# Target rules for targets named fsm_stream_reassembler_cap
-
-# Build rule for target.
-fsm_stream_reassembler_cap: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 fsm_stream_reassembler_cap
-.PHONY : fsm_stream_reassembler_cap
-
-# fast build rule for target.
-fsm_stream_reassembler_cap/fast:
-	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_cap.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_cap.dir/build
-.PHONY : fsm_stream_reassembler_cap/fast
-
-#=============================================================================
-# Target rules for targets named byte_stream_one_write
-
-# Build rule for target.
-byte_stream_one_write: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 byte_stream_one_write
-.PHONY : byte_stream_one_write
-
-# fast build rule for target.
-byte_stream_one_write/fast:
-	$(MAKE) -f tests/CMakeFiles/byte_stream_one_write.dir/build.make tests/CMakeFiles/byte_stream_one_write.dir/build
-.PHONY : byte_stream_one_write/fast
 
 #=============================================================================
 # Target rules for targets named byte_stream_two_writes
@@ -504,34 +660,46 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... check"
-	@echo "... check_lab6"
-	@echo "... edit_cache"
-	@echo "... test"
-	@echo "... check_lab3"
-	@echo "... check_lab2"
-	@echo "... rebuild_cache"
-	@echo "... check_lab5"
-	@echo "... check_lab4"
-	@echo "... check_lab1"
-	@echo "... check_lab0"
 	@echo "... check_webget"
 	@echo "... format"
+	@echo "... check_lab0"
+	@echo "... check_lab1"
+	@echo "... check_lab4"
+	@echo "... check_lab5"
+	@echo "... check_lab2"
+	@echo "... check_lab3"
+	@echo "... doc"
+	@echo "... test"
+	@echo "... rebuild_cache"
+	@echo "... edit_cache"
+	@echo "... check_lab6"
+	@echo "... check"
 	@echo "... sponge"
 	@echo "... webget"
+	@echo "... recv_close"
+	@echo "... recv_transmit"
+	@echo "... recv_connect"
+	@echo "... wrapping_integers_wrap"
+	@echo "... wrapping_integers_unwrap"
+	@echo "... wrapping_integers_cmp"
+	@echo "... byte_stream_capacity"
 	@echo "... spongechecks"
+	@echo "... tcp_parser"
+	@echo "... recv_special"
+	@echo "... recv_window"
+	@echo "... byte_stream_many_writes"
+	@echo "... fsm_stream_reassembler_cap"
+	@echo "... byte_stream_one_write"
+	@echo "... wrapping_integers_roundtrip"
 	@echo "... fsm_stream_reassembler_single"
 	@echo "... fsm_stream_reassembler_seq"
 	@echo "... fsm_stream_reassembler_dup"
-	@echo "... byte_stream_capacity"
 	@echo "... fsm_stream_reassembler_holes"
 	@echo "... byte_stream_construction"
 	@echo "... fsm_stream_reassembler_many"
 	@echo "... fsm_stream_reassembler_overlapping"
+	@echo "... recv_reorder"
 	@echo "... fsm_stream_reassembler_win"
-	@echo "... byte_stream_many_writes"
-	@echo "... fsm_stream_reassembler_cap"
-	@echo "... byte_stream_one_write"
 	@echo "... byte_stream_two_writes"
 	@echo "... parser_dt"
 	@echo "... socket_dt"
