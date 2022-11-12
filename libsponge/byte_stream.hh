@@ -2,6 +2,7 @@
 #define SPONGE_LIBSPONGE_BYTE_STREAM_HH
 
 #include <string>
+#include <vector>
 
 //! \brief An in-order byte stream.
 
@@ -16,7 +17,11 @@ class ByteStream {
     // all, but if any of your tests are taking longer than a second,
     // that's a sign that you probably want to keep exploring
     // different approaches.
-
+    std::vector<char> buffer_;
+    size_t capacity_;
+    size_t total_write_;
+    size_t total_read_;
+    bool end_input_{false};
     bool _error{};  //!< Flag indicating that the stream suffered an error.
 
   public:

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/byte_stream_capacity.dir/byte_stream_capacity.o  -o byte_stream_capacity   -L/home/hongyk/sponge/tests/build  libspongechecks.a -lsponge 

@@ -1,0 +1,8 @@
+/home/hongyk/sponge/tests/build/CMakeFiles/rebuild_cache.dir
+/home/hongyk/sponge/tests/build/CMakeFiles/edit_cache.dir
+/home/hongyk/sponge/tests/build/CMakeFiles/byte_stream_many_writes.dir
+/home/hongyk/sponge/tests/build/CMakeFiles/byte_stream_capacity.dir
+/home/hongyk/sponge/tests/build/CMakeFiles/byte_stream_two_writes.dir
+/home/hongyk/sponge/tests/build/CMakeFiles/byte_stream_one_write.dir
+/home/hongyk/sponge/tests/build/CMakeFiles/byte_stream_construction.dir
+/home/hongyk/sponge/tests/build/CMakeFiles/spongechecks.dir

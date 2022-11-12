@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hongyk/sponge/tests/byte_stream_test_harness.cc
+byte_stream_test_harness.hh
+/home/hongyk/sponge/tests/byte_stream_test_harness.hh
+memory
+-
+sstream
+-
+
+/home/hongyk/sponge/tests/byte_stream_test_harness.hh
+byte_stream.hh
+/home/hongyk/sponge/tests/byte_stream.hh
+util.hh
+/home/hongyk/sponge/tests/util.hh
+exception
+-
+initializer_list
+-
+iostream
+-
+memory
+-
+optional
+-
+string
+-
+

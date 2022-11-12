@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/byte_stream_construction.dir/byte_stream_construction.o  -o byte_stream_construction   -L/home/hongyk/sponge/tests/build  libspongechecks.a -lsponge 

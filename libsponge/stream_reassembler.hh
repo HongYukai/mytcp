@@ -5,15 +5,34 @@
 
 #include <cstdint>
 #include <string>
+#include <map>
+#include <algorithm>
+#include <iostream>
+
+//class UnassembledString {
+//public:
+//    size_t index;
+//    std::string data;
+//    UnassembledString(size_t i, std::string d) : index(i), data(d) {}
+//};
+//
+//class Compare {
+//public:
+//    bool operator() (const UnassembledString & s1, const UnassembledString & s2) {
+//        return s1.index < s2.index;
+//    }
+//};
 
 //! \brief A class that assembles a series of excerpts from a byte stream (possibly out of order,
 //! possibly overlapping) into an in-order byte stream.
 class StreamReassembler {
   private:
     // Your code here -- add private members as necessary.
-
+    size_t _next;
     ByteStream _output;  //!< The reassembled in-order byte stream
     size_t _capacity;    //!< The maximum number of bytes
+    std::map<size_t, char> _unassembled;
+    size_t _eof;
 
   public:
     //! \brief Construct a `StreamReassembler` that will store up to `capacity` bytes.
@@ -46,6 +65,12 @@ class StreamReassembler {
     //! \brief Is the internal state empty (other than the output stream)?
     //! \returns `true` if no substrings are waiting to be assembled
     bool empty() const;
+
+    size_t space() const;
+
+    size_t end_index() const;
+
+    size_t get_next() const {return _next;}
 };
 
 #endif  // SPONGE_LIBSPONGE_STREAM_REASSEMBLER_HH

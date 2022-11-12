@@ -3,6 +3,8 @@
 
 #include <cstdint>
 #include <ostream>
+#include <cmath>
+#include <stdlib.h>
 
 //! \brief A 32-bit integer, expressed relative to an arbitrary initial sequence number (ISN)
 //! \note This is used to express TCP sequence numbers (seqno) and acknowledgment numbers (ackno)
