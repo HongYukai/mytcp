@@ -24,9 +24,12 @@ libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_segment.cc.o: ../libsponge/tcp_h
 
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/byte_stream.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/stream_reassembler.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/tcp_helpers/tcp_config.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/tcp_receiver.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/tcp_sender.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/util/address.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/util/buffer.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/util/parser.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/wrapping_integers.hh
@@ -42,6 +45,17 @@ libsponge/CMakeFiles/sponge.dir/tcp_receiver.cc.o: ../libsponge/stream_reassembl
 libsponge/CMakeFiles/sponge.dir/tcp_receiver.cc.o: ../libsponge/tcp_receiver.cc
 libsponge/CMakeFiles/sponge.dir/tcp_receiver.cc.o: ../libsponge/tcp_receiver.hh
 libsponge/CMakeFiles/sponge.dir/tcp_receiver.cc.o: ../libsponge/wrapping_integers.hh
+
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/tcp_helpers/tcp_config.hh
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/util/address.hh
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/util/buffer.hh
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/util/parser.hh
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/byte_stream.hh
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/tcp_sender.cc
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/tcp_sender.hh
+libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o: ../libsponge/wrapping_integers.hh
 
 libsponge/CMakeFiles/sponge.dir/util/address.cc.o: ../libsponge/util/address.cc
 libsponge/CMakeFiles/sponge.dir/util/address.cc.o: ../libsponge/util/address.hh

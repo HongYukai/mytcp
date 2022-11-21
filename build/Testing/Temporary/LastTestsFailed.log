@@ -1,1 +1,7 @@
-10:t_recv_special
+11:t_send_connect
+12:t_send_transmit
+13:t_send_retx
+14:t_send_window
+15:t_send_ack
+16:t_send_close
+17:t_send_extra

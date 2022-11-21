@@ -271,6 +271,33 @@ tcp_helpers/tcp_state.cc.s:
 	cd /home/hongyk/sponge/cmake-build-debug && $(MAKE) -f libsponge/CMakeFiles/sponge.dir/build.make libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.s
 .PHONY : tcp_helpers/tcp_state.cc.s
 
+tcp_helpers/tcp_timer.o: tcp_helpers/tcp_timer.cc.o
+
+.PHONY : tcp_helpers/tcp_timer.o
+
+# target to build an object file
+tcp_helpers/tcp_timer.cc.o:
+	cd /home/hongyk/sponge/cmake-build-debug && $(MAKE) -f libsponge/CMakeFiles/sponge.dir/build.make libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_timer.cc.o
+.PHONY : tcp_helpers/tcp_timer.cc.o
+
+tcp_helpers/tcp_timer.i: tcp_helpers/tcp_timer.cc.i
+
+.PHONY : tcp_helpers/tcp_timer.i
+
+# target to preprocess a source file
+tcp_helpers/tcp_timer.cc.i:
+	cd /home/hongyk/sponge/cmake-build-debug && $(MAKE) -f libsponge/CMakeFiles/sponge.dir/build.make libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_timer.cc.i
+.PHONY : tcp_helpers/tcp_timer.cc.i
+
+tcp_helpers/tcp_timer.s: tcp_helpers/tcp_timer.cc.s
+
+.PHONY : tcp_helpers/tcp_timer.s
+
+# target to generate assembly for a file
+tcp_helpers/tcp_timer.cc.s:
+	cd /home/hongyk/sponge/cmake-build-debug && $(MAKE) -f libsponge/CMakeFiles/sponge.dir/build.make libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_timer.cc.s
+.PHONY : tcp_helpers/tcp_timer.cc.s
+
 tcp_receiver.o: tcp_receiver.cc.o
 
 .PHONY : tcp_receiver.o
@@ -297,6 +324,33 @@ tcp_receiver.s: tcp_receiver.cc.s
 tcp_receiver.cc.s:
 	cd /home/hongyk/sponge/cmake-build-debug && $(MAKE) -f libsponge/CMakeFiles/sponge.dir/build.make libsponge/CMakeFiles/sponge.dir/tcp_receiver.cc.s
 .PHONY : tcp_receiver.cc.s
+
+tcp_sender.o: tcp_sender.cc.o
+
+.PHONY : tcp_sender.o
+
+# target to build an object file
+tcp_sender.cc.o:
+	cd /home/hongyk/sponge/cmake-build-debug && $(MAKE) -f libsponge/CMakeFiles/sponge.dir/build.make libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.o
+.PHONY : tcp_sender.cc.o
+
+tcp_sender.i: tcp_sender.cc.i
+
+.PHONY : tcp_sender.i
+
+# target to preprocess a source file
+tcp_sender.cc.i:
+	cd /home/hongyk/sponge/cmake-build-debug && $(MAKE) -f libsponge/CMakeFiles/sponge.dir/build.make libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.i
+.PHONY : tcp_sender.cc.i
+
+tcp_sender.s: tcp_sender.cc.s
+
+.PHONY : tcp_sender.s
+
+# target to generate assembly for a file
+tcp_sender.cc.s:
+	cd /home/hongyk/sponge/cmake-build-debug && $(MAKE) -f libsponge/CMakeFiles/sponge.dir/build.make libsponge/CMakeFiles/sponge.dir/tcp_sender.cc.s
+.PHONY : tcp_sender.cc.s
 
 util/address.o: util/address.cc.o
 
@@ -566,9 +620,15 @@ help:
 	@echo "... tcp_helpers/tcp_state.o"
 	@echo "... tcp_helpers/tcp_state.i"
 	@echo "... tcp_helpers/tcp_state.s"
+	@echo "... tcp_helpers/tcp_timer.o"
+	@echo "... tcp_helpers/tcp_timer.i"
+	@echo "... tcp_helpers/tcp_timer.s"
 	@echo "... tcp_receiver.o"
 	@echo "... tcp_receiver.i"
 	@echo "... tcp_receiver.s"
+	@echo "... tcp_sender.o"
+	@echo "... tcp_sender.i"
+	@echo "... tcp_sender.s"
 	@echo "... util/address.o"
 	@echo "... util/address.i"
 	@echo "... util/address.s"

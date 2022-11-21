@@ -1,17 +1,17 @@
-Start testing: Nov 12 10:15 UTC
+Start testing: Nov 21 15:11 UTC
 ----------------------------------------------------------
 1/169 Testing: t_wrapping_ints_cmp
 1/169 Test: t_wrapping_ints_cmp
 Command: "/home/hongyk/sponge/build/tests/wrapping_integers_cmp"
 Directory: /home/hongyk/sponge/build
-"t_wrapping_ints_cmp" start time: Nov 12 10:15 UTC
+"t_wrapping_ints_cmp" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_cmp" end time: Nov 12 10:15 UTC
+"t_wrapping_ints_cmp" end time: Nov 21 15:11 UTC
 "t_wrapping_ints_cmp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -19,14 +19,14 @@ Test Passed.
 2/169 Test: t_wrapping_ints_unwrap
 Command: "/home/hongyk/sponge/build/tests/wrapping_integers_unwrap"
 Directory: /home/hongyk/sponge/build
-"t_wrapping_ints_unwrap" start time: Nov 12 10:15 UTC
+"t_wrapping_ints_unwrap" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_unwrap" end time: Nov 12 10:15 UTC
+"t_wrapping_ints_unwrap" end time: Nov 21 15:11 UTC
 "t_wrapping_ints_unwrap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -34,14 +34,14 @@ Test Passed.
 3/169 Test: t_wrapping_ints_wrap
 Command: "/home/hongyk/sponge/build/tests/wrapping_integers_wrap"
 Directory: /home/hongyk/sponge/build
-"t_wrapping_ints_wrap" start time: Nov 12 10:15 UTC
+"t_wrapping_ints_wrap" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_wrap" end time: Nov 12 10:15 UTC
+"t_wrapping_ints_wrap" end time: Nov 21 15:11 UTC
 "t_wrapping_ints_wrap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -49,14 +49,14 @@ Test Passed.
 4/169 Test: t_wrapping_ints_roundtrip
 Command: "/home/hongyk/sponge/build/tests/wrapping_integers_roundtrip"
 Directory: /home/hongyk/sponge/build
-"t_wrapping_ints_roundtrip" start time: Nov 12 10:15 UTC
+"t_wrapping_ints_roundtrip" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.16 sec
+Test time =   0.19 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_roundtrip" end time: Nov 12 10:15 UTC
+"t_wrapping_ints_roundtrip" end time: Nov 21 15:11 UTC
 "t_wrapping_ints_roundtrip" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -64,14 +64,14 @@ Test Passed.
 5/169 Test: t_recv_connect
 Command: "/home/hongyk/sponge/build/tests/recv_connect"
 Directory: /home/hongyk/sponge/build
-"t_recv_connect" start time: Nov 12 10:15 UTC
+"t_recv_connect" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_connect" end time: Nov 12 10:15 UTC
+"t_recv_connect" end time: Nov 21 15:11 UTC
 "t_recv_connect" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -79,14 +79,14 @@ Test Passed.
 6/169 Test: t_recv_transmit
 Command: "/home/hongyk/sponge/build/tests/recv_transmit"
 Directory: /home/hongyk/sponge/build
-"t_recv_transmit" start time: Nov 12 10:15 UTC
+"t_recv_transmit" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.05 sec
+Test time =   0.08 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_transmit" end time: Nov 12 10:15 UTC
+"t_recv_transmit" end time: Nov 21 15:11 UTC
 "t_recv_transmit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -94,14 +94,14 @@ Test Passed.
 7/169 Test: t_recv_window
 Command: "/home/hongyk/sponge/build/tests/recv_window"
 Directory: /home/hongyk/sponge/build
-"t_recv_window" start time: Nov 12 10:15 UTC
+"t_recv_window" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_window" end time: Nov 12 10:15 UTC
+"t_recv_window" end time: Nov 21 15:11 UTC
 "t_recv_window" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -109,14 +109,14 @@ Test Passed.
 8/169 Test: t_recv_reorder
 Command: "/home/hongyk/sponge/build/tests/recv_reorder"
 Directory: /home/hongyk/sponge/build
-"t_recv_reorder" start time: Nov 12 10:15 UTC
+"t_recv_reorder" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_reorder" end time: Nov 12 10:15 UTC
+"t_recv_reorder" end time: Nov 21 15:11 UTC
 "t_recv_reorder" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -124,14 +124,14 @@ Test Passed.
 9/169 Test: t_recv_close
 Command: "/home/hongyk/sponge/build/tests/recv_close"
 Directory: /home/hongyk/sponge/build
-"t_recv_close" start time: Nov 12 10:15 UTC
+"t_recv_close" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_close" end time: Nov 12 10:15 UTC
+"t_recv_close" end time: Nov 21 15:11 UTC
 "t_recv_close" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,29 +139,134 @@ Test Passed.
 10/169 Test: t_recv_special
 Command: "/home/hongyk/sponge/build/tests/recv_special"
 Directory: /home/hongyk/sponge/build
-"t_recv_special" start time: Nov 12 10:15 UTC
+"t_recv_special" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_special" end time: Nov 12 10:15 UTC
+"t_recv_special" end time: Nov 21 15:11 UTC
 "t_recv_special" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/169 Testing: t_send_connect
+11/169 Test: t_send_connect
+Command: "/home/hongyk/sponge/build/tests/send_connect"
+Directory: /home/hongyk/sponge/build
+"t_send_connect" start time: Nov 21 15:11 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_connect" end time: Nov 21 15:11 UTC
+"t_send_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/169 Testing: t_send_transmit
+12/169 Test: t_send_transmit
+Command: "/home/hongyk/sponge/build/tests/send_transmit"
+Directory: /home/hongyk/sponge/build
+"t_send_transmit" start time: Nov 21 15:11 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_transmit" end time: Nov 21 15:11 UTC
+"t_send_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/169 Testing: t_send_retx
+13/169 Test: t_send_retx
+Command: "/home/hongyk/sponge/build/tests/send_retx"
+Directory: /home/hongyk/sponge/build
+"t_send_retx" start time: Nov 21 15:11 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_retx" end time: Nov 21 15:11 UTC
+"t_send_retx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/169 Testing: t_send_window
+14/169 Test: t_send_window
+Command: "/home/hongyk/sponge/build/tests/send_window"
+Directory: /home/hongyk/sponge/build
+"t_send_window" start time: Nov 21 15:11 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_window" end time: Nov 21 15:11 UTC
+"t_send_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/169 Testing: t_send_ack
+15/169 Test: t_send_ack
+Command: "/home/hongyk/sponge/build/tests/send_ack"
+Directory: /home/hongyk/sponge/build
+"t_send_ack" start time: Nov 21 15:11 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_ack" end time: Nov 21 15:11 UTC
+"t_send_ack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/169 Testing: t_send_close
+16/169 Test: t_send_close
+Command: "/home/hongyk/sponge/build/tests/send_close"
+Directory: /home/hongyk/sponge/build
+"t_send_close" start time: Nov 21 15:11 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_close" end time: Nov 21 15:11 UTC
+"t_send_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/169 Testing: t_send_extra
+17/169 Test: t_send_extra
+Command: "/home/hongyk/sponge/build/tests/send_extra"
+Directory: /home/hongyk/sponge/build
+"t_send_extra" start time: Nov 21 15:11 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_extra" end time: Nov 21 15:11 UTC
+"t_send_extra" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 18/169 Testing: t_strm_reassem_single
 18/169 Test: t_strm_reassem_single
 Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_single"
 Directory: /home/hongyk/sponge/build
-"t_strm_reassem_single" start time: Nov 12 10:15 UTC
+"t_strm_reassem_single" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_single" end time: Nov 12 10:15 UTC
+"t_strm_reassem_single" end time: Nov 21 15:11 UTC
 "t_strm_reassem_single" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -169,14 +274,14 @@ Test Passed.
 19/169 Test: t_strm_reassem_seq
 Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_seq"
 Directory: /home/hongyk/sponge/build
-"t_strm_reassem_seq" start time: Nov 12 10:15 UTC
+"t_strm_reassem_seq" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_seq" end time: Nov 12 10:15 UTC
+"t_strm_reassem_seq" end time: Nov 21 15:11 UTC
 "t_strm_reassem_seq" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -184,14 +289,14 @@ Test Passed.
 20/169 Test: t_strm_reassem_dup
 Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_dup"
 Directory: /home/hongyk/sponge/build
-"t_strm_reassem_dup" start time: Nov 12 10:15 UTC
+"t_strm_reassem_dup" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_dup" end time: Nov 12 10:15 UTC
+"t_strm_reassem_dup" end time: Nov 21 15:11 UTC
 "t_strm_reassem_dup" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -199,14 +304,14 @@ Test Passed.
 21/169 Test: t_strm_reassem_holes
 Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_holes"
 Directory: /home/hongyk/sponge/build
-"t_strm_reassem_holes" start time: Nov 12 10:15 UTC
+"t_strm_reassem_holes" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_holes" end time: Nov 12 10:15 UTC
+"t_strm_reassem_holes" end time: Nov 21 15:11 UTC
 "t_strm_reassem_holes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -214,29 +319,29 @@ Test Passed.
 22/169 Test: t_strm_reassem_many
 Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_many"
 Directory: /home/hongyk/sponge/build
-"t_strm_reassem_many" start time: Nov 12 10:15 UTC
+"t_strm_reassem_many" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.94 sec
+Test time =   1.05 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_many" end time: Nov 12 10:15 UTC
-"t_strm_reassem_many" time elapsed: 00:00:00
+"t_strm_reassem_many" end time: Nov 21 15:11 UTC
+"t_strm_reassem_many" time elapsed: 00:00:01
 ----------------------------------------------------------
 
 23/169 Testing: t_strm_reassem_overlapping
 23/169 Test: t_strm_reassem_overlapping
 Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_overlapping"
 Directory: /home/hongyk/sponge/build
-"t_strm_reassem_overlapping" start time: Nov 12 10:15 UTC
+"t_strm_reassem_overlapping" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_overlapping" end time: Nov 12 10:15 UTC
+"t_strm_reassem_overlapping" end time: Nov 21 15:11 UTC
 "t_strm_reassem_overlapping" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -244,14 +349,14 @@ Test Passed.
 24/169 Test: t_strm_reassem_win
 Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_win"
 Directory: /home/hongyk/sponge/build
-"t_strm_reassem_win" start time: Nov 12 10:15 UTC
+"t_strm_reassem_win" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   1.26 sec
+Test time =   1.41 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_win" end time: Nov 12 10:15 UTC
+"t_strm_reassem_win" end time: Nov 21 15:11 UTC
 "t_strm_reassem_win" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -259,14 +364,14 @@ Test Passed.
 25/169 Test: t_strm_reassem_cap
 Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_cap"
 Directory: /home/hongyk/sponge/build
-"t_strm_reassem_cap" start time: Nov 12 10:15 UTC
+"t_strm_reassem_cap" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.09 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_cap" end time: Nov 12 10:15 UTC
+"t_strm_reassem_cap" end time: Nov 21 15:11 UTC
 "t_strm_reassem_cap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -274,14 +379,14 @@ Test Passed.
 26/169 Test: t_byte_stream_construction
 Command: "/home/hongyk/sponge/build/tests/byte_stream_construction"
 Directory: /home/hongyk/sponge/build
-"t_byte_stream_construction" start time: Nov 12 10:15 UTC
+"t_byte_stream_construction" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_construction" end time: Nov 12 10:15 UTC
+"t_byte_stream_construction" end time: Nov 21 15:11 UTC
 "t_byte_stream_construction" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -289,14 +394,14 @@ Test Passed.
 27/169 Test: t_byte_stream_one_write
 Command: "/home/hongyk/sponge/build/tests/byte_stream_one_write"
 Directory: /home/hongyk/sponge/build
-"t_byte_stream_one_write" start time: Nov 12 10:15 UTC
+"t_byte_stream_one_write" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_one_write" end time: Nov 12 10:15 UTC
+"t_byte_stream_one_write" end time: Nov 21 15:11 UTC
 "t_byte_stream_one_write" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -304,14 +409,14 @@ Test Passed.
 28/169 Test: t_byte_stream_two_writes
 Command: "/home/hongyk/sponge/build/tests/byte_stream_two_writes"
 Directory: /home/hongyk/sponge/build
-"t_byte_stream_two_writes" start time: Nov 12 10:15 UTC
+"t_byte_stream_two_writes" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_two_writes" end time: Nov 12 10:15 UTC
+"t_byte_stream_two_writes" end time: Nov 21 15:11 UTC
 "t_byte_stream_two_writes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -319,14 +424,14 @@ Test Passed.
 29/169 Test: t_byte_stream_capacity
 Command: "/home/hongyk/sponge/build/tests/byte_stream_capacity"
 Directory: /home/hongyk/sponge/build
-"t_byte_stream_capacity" start time: Nov 12 10:15 UTC
+"t_byte_stream_capacity" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.56 sec
+Test time =   0.64 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_capacity" end time: Nov 12 10:15 UTC
+"t_byte_stream_capacity" end time: Nov 21 15:11 UTC
 "t_byte_stream_capacity" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -334,14 +439,14 @@ Test Passed.
 30/169 Test: t_byte_stream_many_writes
 Command: "/home/hongyk/sponge/build/tests/byte_stream_many_writes"
 Directory: /home/hongyk/sponge/build
-"t_byte_stream_many_writes" start time: Nov 12 10:15 UTC
+"t_byte_stream_many_writes" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_many_writes" end time: Nov 12 10:15 UTC
+"t_byte_stream_many_writes" end time: Nov 21 15:11 UTC
 "t_byte_stream_many_writes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -349,14 +454,14 @@ Test Passed.
 53/169 Test: t_address_dt
 Command: "/home/hongyk/sponge/build/doctests/address_dt"
 Directory: /home/hongyk/sponge/build
-"t_address_dt" start time: Nov 12 10:15 UTC
+"t_address_dt" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_address_dt" end time: Nov 12 10:15 UTC
+"t_address_dt" end time: Nov 21 15:11 UTC
 "t_address_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -364,14 +469,14 @@ Test Passed.
 54/169 Test: t_parser_dt
 Command: "/home/hongyk/sponge/build/doctests/parser_dt"
 Directory: /home/hongyk/sponge/build
-"t_parser_dt" start time: Nov 12 10:15 UTC
+"t_parser_dt" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_parser_dt" end time: Nov 12 10:15 UTC
+"t_parser_dt" end time: Nov 21 15:11 UTC
 "t_parser_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -379,15 +484,15 @@ Test Passed.
 55/169 Test: t_socket_dt
 Command: "/home/hongyk/sponge/build/doctests/socket_dt"
 Directory: /home/hongyk/sponge/build
-"t_socket_dt" start time: Nov 12 10:15 UTC
+"t_socket_dt" start time: Nov 21 15:11 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"t_socket_dt" end time: Nov 12 10:15 UTC
+"t_socket_dt" end time: Nov 21 15:11 UTC
 "t_socket_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Nov 12 10:15 UTC
+End testing: Nov 21 15:11 UTC

@@ -4,10 +4,13 @@
 tests/CMakeFiles/recv_window.dir/recv_window.cc.o
  ../libsponge/byte_stream.hh
  ../libsponge/stream_reassembler.hh
+ ../libsponge/tcp_helpers/tcp_config.hh
  ../libsponge/tcp_helpers/tcp_header.hh
  ../libsponge/tcp_helpers/tcp_segment.hh
  ../libsponge/tcp_helpers/tcp_state.hh
  ../libsponge/tcp_receiver.hh
+ ../libsponge/tcp_sender.hh
+ ../libsponge/util/address.hh
  ../libsponge/util/buffer.hh
  ../libsponge/util/parser.hh
  ../libsponge/util/util.hh

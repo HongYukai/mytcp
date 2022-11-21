@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sponge.dir/tcp_helpers/tcp_segment.cc.o"
   "CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o"
   "CMakeFiles/sponge.dir/tcp_receiver.cc.o"
+  "CMakeFiles/sponge.dir/tcp_sender.cc.o"
   "CMakeFiles/sponge.dir/util/address.cc.o"
   "CMakeFiles/sponge.dir/util/buffer.cc.o"
   "CMakeFiles/sponge.dir/util/eventloop.cc.o"
