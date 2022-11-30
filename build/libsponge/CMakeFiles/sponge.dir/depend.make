@@ -8,11 +8,70 @@ libsponge/CMakeFiles/sponge.dir/stream_reassembler.cc.o: ../libsponge/byte_strea
 libsponge/CMakeFiles/sponge.dir/stream_reassembler.cc.o: ../libsponge/stream_reassembler.cc
 libsponge/CMakeFiles/sponge.dir/stream_reassembler.cc.o: ../libsponge/stream_reassembler.hh
 
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/tcp_helpers/tcp_config.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/tcp_helpers/tcp_state.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/util/address.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/util/buffer.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/util/parser.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/wrapping_integers.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/byte_stream.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/stream_reassembler.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/tcp_connection.cc
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/tcp_connection.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/tcp_receiver.hh
+libsponge/CMakeFiles/sponge.dir/tcp_connection.cc.o: ../libsponge/tcp_sender.hh
+
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/util/address.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/util/buffer.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/util/file_descriptor.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/util/parser.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/util/socket.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/util/util.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/wrapping_integers.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/tcp_helpers/fd_adapter.cc
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/tcp_helpers/fd_adapter.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/tcp_helpers/lossy_fd_adapter.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/tcp_helpers/tcp_config.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/fd_adapter.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh
+
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_datagram.cc.o: ../libsponge/util/buffer.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_datagram.cc.o: ../libsponge/util/parser.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_datagram.cc.o: ../libsponge/util/util.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_datagram.cc.o: ../libsponge/tcp_helpers/ipv4_datagram.cc
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_datagram.cc.o: ../libsponge/tcp_helpers/ipv4_datagram.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_datagram.cc.o: ../libsponge/tcp_helpers/ipv4_header.hh
+
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_header.cc.o: ../libsponge/util/buffer.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_header.cc.o: ../libsponge/util/parser.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_header.cc.o: ../libsponge/util/util.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_header.cc.o: ../libsponge/tcp_helpers/ipv4_header.cc
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/ipv4_header.cc.o: ../libsponge/tcp_helpers/ipv4_header.hh
+
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_header.cc.o: ../libsponge/util/buffer.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_header.cc.o: ../libsponge/util/parser.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_header.cc.o: ../libsponge/wrapping_integers.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_header.cc.o: ../libsponge/tcp_helpers/tcp_header.cc
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_header.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
+
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/util/address.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/util/buffer.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/util/file_descriptor.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/util/parser.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/util/socket.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/util/util.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/wrapping_integers.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/fd_adapter.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/ipv4_datagram.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/ipv4_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/lossy_fd_adapter.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/tcp_config.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/tcp_over_ip.cc
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/tcp_over_ip.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_over_ip.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh
 
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_segment.cc.o: ../libsponge/util/buffer.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_segment.cc.o: ../libsponge/util/parser.hh
@@ -21,6 +80,33 @@ libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_segment.cc.o: ../libsponge/wrapp
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_segment.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_segment.cc.o: ../libsponge/tcp_helpers/tcp_segment.cc
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_segment.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh
+
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/byte_stream.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/stream_reassembler.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_connection.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/tcp_state.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_receiver.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_sender.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/util/address.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/util/buffer.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/util/eventloop.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/util/file_descriptor.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/util/parser.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/util/socket.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/util/tun.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/util/util.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/wrapping_integers.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/fd_adapter.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/ipv4_datagram.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/ipv4_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/lossy_fd_adapter.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/tcp_config.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/tcp_over_ip.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/tcp_sponge_socket.cc
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/tcp_sponge_socket.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_sponge_socket.cc.o: ../libsponge/tcp_helpers/tuntap_adapter.hh
 
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/byte_stream.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/stream_reassembler.hh
@@ -35,6 +121,25 @@ libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/util/pa
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/wrapping_integers.hh
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/tcp_helpers/tcp_state.cc
 libsponge/CMakeFiles/sponge.dir/tcp_helpers/tcp_state.cc.o: ../libsponge/tcp_helpers/tcp_state.hh
+
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/util/address.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/util/buffer.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/util/file_descriptor.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/util/parser.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/util/socket.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/util/tun.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/util/util.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/wrapping_integers.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/fd_adapter.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/ipv4_datagram.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/ipv4_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/lossy_fd_adapter.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/tcp_config.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/tcp_over_ip.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/tuntap_adapter.cc
+libsponge/CMakeFiles/sponge.dir/tcp_helpers/tuntap_adapter.cc.o: ../libsponge/tcp_helpers/tuntap_adapter.hh
 
 libsponge/CMakeFiles/sponge.dir/tcp_receiver.cc.o: ../libsponge/tcp_helpers/tcp_header.hh
 libsponge/CMakeFiles/sponge.dir/tcp_receiver.cc.o: ../libsponge/tcp_helpers/tcp_segment.hh

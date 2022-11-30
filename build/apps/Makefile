@@ -122,6 +122,21 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
+apps/CMakeFiles/tcp_benchmark.dir/rule:
+	cd /home/hongyk/sponge/build && $(MAKE) -f CMakeFiles/Makefile2 apps/CMakeFiles/tcp_benchmark.dir/rule
+.PHONY : apps/CMakeFiles/tcp_benchmark.dir/rule
+
+# Convenience name for target.
+tcp_benchmark: apps/CMakeFiles/tcp_benchmark.dir/rule
+
+.PHONY : tcp_benchmark
+
+# fast build rule for target.
+tcp_benchmark/fast:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_benchmark.dir/build.make apps/CMakeFiles/tcp_benchmark.dir/build
+.PHONY : tcp_benchmark/fast
+
+# Convenience name for target.
 apps/CMakeFiles/webget.dir/rule:
 	cd /home/hongyk/sponge/build && $(MAKE) -f CMakeFiles/Makefile2 apps/CMakeFiles/webget.dir/rule
 .PHONY : apps/CMakeFiles/webget.dir/rule
@@ -135,6 +150,285 @@ webget: apps/CMakeFiles/webget.dir/rule
 webget/fast:
 	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/webget.dir/build.make apps/CMakeFiles/webget.dir/build
 .PHONY : webget/fast
+
+# Convenience name for target.
+apps/CMakeFiles/tcp_udp.dir/rule:
+	cd /home/hongyk/sponge/build && $(MAKE) -f CMakeFiles/Makefile2 apps/CMakeFiles/tcp_udp.dir/rule
+.PHONY : apps/CMakeFiles/tcp_udp.dir/rule
+
+# Convenience name for target.
+tcp_udp: apps/CMakeFiles/tcp_udp.dir/rule
+
+.PHONY : tcp_udp
+
+# fast build rule for target.
+tcp_udp/fast:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_udp.dir/build.make apps/CMakeFiles/tcp_udp.dir/build
+.PHONY : tcp_udp/fast
+
+# Convenience name for target.
+apps/CMakeFiles/tcp_ipv4.dir/rule:
+	cd /home/hongyk/sponge/build && $(MAKE) -f CMakeFiles/Makefile2 apps/CMakeFiles/tcp_ipv4.dir/rule
+.PHONY : apps/CMakeFiles/tcp_ipv4.dir/rule
+
+# Convenience name for target.
+tcp_ipv4: apps/CMakeFiles/tcp_ipv4.dir/rule
+
+.PHONY : tcp_ipv4
+
+# fast build rule for target.
+tcp_ipv4/fast:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_ipv4.dir/build.make apps/CMakeFiles/tcp_ipv4.dir/build
+.PHONY : tcp_ipv4/fast
+
+# Convenience name for target.
+apps/CMakeFiles/tcp_native.dir/rule:
+	cd /home/hongyk/sponge/build && $(MAKE) -f CMakeFiles/Makefile2 apps/CMakeFiles/tcp_native.dir/rule
+.PHONY : apps/CMakeFiles/tcp_native.dir/rule
+
+# Convenience name for target.
+tcp_native: apps/CMakeFiles/tcp_native.dir/rule
+
+.PHONY : tcp_native
+
+# fast build rule for target.
+tcp_native/fast:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_native.dir/build.make apps/CMakeFiles/tcp_native.dir/build
+.PHONY : tcp_native/fast
+
+# Convenience name for target.
+apps/CMakeFiles/tun.dir/rule:
+	cd /home/hongyk/sponge/build && $(MAKE) -f CMakeFiles/Makefile2 apps/CMakeFiles/tun.dir/rule
+.PHONY : apps/CMakeFiles/tun.dir/rule
+
+# Convenience name for target.
+tun: apps/CMakeFiles/tun.dir/rule
+
+.PHONY : tun
+
+# fast build rule for target.
+tun/fast:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tun.dir/build.make apps/CMakeFiles/tun.dir/build
+.PHONY : tun/fast
+
+# Convenience name for target.
+apps/CMakeFiles/udp_tcpdump.dir/rule:
+	cd /home/hongyk/sponge/build && $(MAKE) -f CMakeFiles/Makefile2 apps/CMakeFiles/udp_tcpdump.dir/rule
+.PHONY : apps/CMakeFiles/udp_tcpdump.dir/rule
+
+# Convenience name for target.
+udp_tcpdump: apps/CMakeFiles/udp_tcpdump.dir/rule
+
+.PHONY : udp_tcpdump
+
+# fast build rule for target.
+udp_tcpdump/fast:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/udp_tcpdump.dir/build.make apps/CMakeFiles/udp_tcpdump.dir/build
+.PHONY : udp_tcpdump/fast
+
+# Convenience name for target.
+apps/CMakeFiles/stream_copy.dir/rule:
+	cd /home/hongyk/sponge/build && $(MAKE) -f CMakeFiles/Makefile2 apps/CMakeFiles/stream_copy.dir/rule
+.PHONY : apps/CMakeFiles/stream_copy.dir/rule
+
+# Convenience name for target.
+stream_copy: apps/CMakeFiles/stream_copy.dir/rule
+
+.PHONY : stream_copy
+
+# fast build rule for target.
+stream_copy/fast:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/stream_copy.dir/build.make apps/CMakeFiles/stream_copy.dir/build
+.PHONY : stream_copy/fast
+
+bidirectional_stream_copy.o: bidirectional_stream_copy.cc.o
+
+.PHONY : bidirectional_stream_copy.o
+
+# target to build an object file
+bidirectional_stream_copy.cc.o:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/stream_copy.dir/build.make apps/CMakeFiles/stream_copy.dir/bidirectional_stream_copy.cc.o
+.PHONY : bidirectional_stream_copy.cc.o
+
+bidirectional_stream_copy.i: bidirectional_stream_copy.cc.i
+
+.PHONY : bidirectional_stream_copy.i
+
+# target to preprocess a source file
+bidirectional_stream_copy.cc.i:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/stream_copy.dir/build.make apps/CMakeFiles/stream_copy.dir/bidirectional_stream_copy.cc.i
+.PHONY : bidirectional_stream_copy.cc.i
+
+bidirectional_stream_copy.s: bidirectional_stream_copy.cc.s
+
+.PHONY : bidirectional_stream_copy.s
+
+# target to generate assembly for a file
+bidirectional_stream_copy.cc.s:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/stream_copy.dir/build.make apps/CMakeFiles/stream_copy.dir/bidirectional_stream_copy.cc.s
+.PHONY : bidirectional_stream_copy.cc.s
+
+tcp_benchmark.o: tcp_benchmark.cc.o
+
+.PHONY : tcp_benchmark.o
+
+# target to build an object file
+tcp_benchmark.cc.o:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_benchmark.dir/build.make apps/CMakeFiles/tcp_benchmark.dir/tcp_benchmark.cc.o
+.PHONY : tcp_benchmark.cc.o
+
+tcp_benchmark.i: tcp_benchmark.cc.i
+
+.PHONY : tcp_benchmark.i
+
+# target to preprocess a source file
+tcp_benchmark.cc.i:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_benchmark.dir/build.make apps/CMakeFiles/tcp_benchmark.dir/tcp_benchmark.cc.i
+.PHONY : tcp_benchmark.cc.i
+
+tcp_benchmark.s: tcp_benchmark.cc.s
+
+.PHONY : tcp_benchmark.s
+
+# target to generate assembly for a file
+tcp_benchmark.cc.s:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_benchmark.dir/build.make apps/CMakeFiles/tcp_benchmark.dir/tcp_benchmark.cc.s
+.PHONY : tcp_benchmark.cc.s
+
+tcp_ipv4.o: tcp_ipv4.cc.o
+
+.PHONY : tcp_ipv4.o
+
+# target to build an object file
+tcp_ipv4.cc.o:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_ipv4.dir/build.make apps/CMakeFiles/tcp_ipv4.dir/tcp_ipv4.cc.o
+.PHONY : tcp_ipv4.cc.o
+
+tcp_ipv4.i: tcp_ipv4.cc.i
+
+.PHONY : tcp_ipv4.i
+
+# target to preprocess a source file
+tcp_ipv4.cc.i:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_ipv4.dir/build.make apps/CMakeFiles/tcp_ipv4.dir/tcp_ipv4.cc.i
+.PHONY : tcp_ipv4.cc.i
+
+tcp_ipv4.s: tcp_ipv4.cc.s
+
+.PHONY : tcp_ipv4.s
+
+# target to generate assembly for a file
+tcp_ipv4.cc.s:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_ipv4.dir/build.make apps/CMakeFiles/tcp_ipv4.dir/tcp_ipv4.cc.s
+.PHONY : tcp_ipv4.cc.s
+
+tcp_native.o: tcp_native.cc.o
+
+.PHONY : tcp_native.o
+
+# target to build an object file
+tcp_native.cc.o:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_native.dir/build.make apps/CMakeFiles/tcp_native.dir/tcp_native.cc.o
+.PHONY : tcp_native.cc.o
+
+tcp_native.i: tcp_native.cc.i
+
+.PHONY : tcp_native.i
+
+# target to preprocess a source file
+tcp_native.cc.i:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_native.dir/build.make apps/CMakeFiles/tcp_native.dir/tcp_native.cc.i
+.PHONY : tcp_native.cc.i
+
+tcp_native.s: tcp_native.cc.s
+
+.PHONY : tcp_native.s
+
+# target to generate assembly for a file
+tcp_native.cc.s:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_native.dir/build.make apps/CMakeFiles/tcp_native.dir/tcp_native.cc.s
+.PHONY : tcp_native.cc.s
+
+tcp_udp.o: tcp_udp.cc.o
+
+.PHONY : tcp_udp.o
+
+# target to build an object file
+tcp_udp.cc.o:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_udp.dir/build.make apps/CMakeFiles/tcp_udp.dir/tcp_udp.cc.o
+.PHONY : tcp_udp.cc.o
+
+tcp_udp.i: tcp_udp.cc.i
+
+.PHONY : tcp_udp.i
+
+# target to preprocess a source file
+tcp_udp.cc.i:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_udp.dir/build.make apps/CMakeFiles/tcp_udp.dir/tcp_udp.cc.i
+.PHONY : tcp_udp.cc.i
+
+tcp_udp.s: tcp_udp.cc.s
+
+.PHONY : tcp_udp.s
+
+# target to generate assembly for a file
+tcp_udp.cc.s:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tcp_udp.dir/build.make apps/CMakeFiles/tcp_udp.dir/tcp_udp.cc.s
+.PHONY : tcp_udp.cc.s
+
+tun.o: tun.cc.o
+
+.PHONY : tun.o
+
+# target to build an object file
+tun.cc.o:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tun.dir/build.make apps/CMakeFiles/tun.dir/tun.cc.o
+.PHONY : tun.cc.o
+
+tun.i: tun.cc.i
+
+.PHONY : tun.i
+
+# target to preprocess a source file
+tun.cc.i:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tun.dir/build.make apps/CMakeFiles/tun.dir/tun.cc.i
+.PHONY : tun.cc.i
+
+tun.s: tun.cc.s
+
+.PHONY : tun.s
+
+# target to generate assembly for a file
+tun.cc.s:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/tun.dir/build.make apps/CMakeFiles/tun.dir/tun.cc.s
+.PHONY : tun.cc.s
+
+udp_tcpdump.o: udp_tcpdump.cc.o
+
+.PHONY : udp_tcpdump.o
+
+# target to build an object file
+udp_tcpdump.cc.o:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/udp_tcpdump.dir/build.make apps/CMakeFiles/udp_tcpdump.dir/udp_tcpdump.cc.o
+.PHONY : udp_tcpdump.cc.o
+
+udp_tcpdump.i: udp_tcpdump.cc.i
+
+.PHONY : udp_tcpdump.i
+
+# target to preprocess a source file
+udp_tcpdump.cc.i:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/udp_tcpdump.dir/build.make apps/CMakeFiles/udp_tcpdump.dir/udp_tcpdump.cc.i
+.PHONY : udp_tcpdump.cc.i
+
+udp_tcpdump.s: udp_tcpdump.cc.s
+
+.PHONY : udp_tcpdump.s
+
+# target to generate assembly for a file
+udp_tcpdump.cc.s:
+	cd /home/hongyk/sponge/build && $(MAKE) -f apps/CMakeFiles/udp_tcpdump.dir/build.make apps/CMakeFiles/udp_tcpdump.dir/udp_tcpdump.cc.s
+.PHONY : udp_tcpdump.cc.s
 
 webget.o: webget.cc.o
 
@@ -172,7 +466,35 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... test"
+	@echo "... tcp_benchmark"
 	@echo "... webget"
+	@echo "... tcp_udp"
+	@echo "... tcp_ipv4"
+	@echo "... tcp_native"
+	@echo "... tun"
+	@echo "... udp_tcpdump"
+	@echo "... stream_copy"
+	@echo "... bidirectional_stream_copy.o"
+	@echo "... bidirectional_stream_copy.i"
+	@echo "... bidirectional_stream_copy.s"
+	@echo "... tcp_benchmark.o"
+	@echo "... tcp_benchmark.i"
+	@echo "... tcp_benchmark.s"
+	@echo "... tcp_ipv4.o"
+	@echo "... tcp_ipv4.i"
+	@echo "... tcp_ipv4.s"
+	@echo "... tcp_native.o"
+	@echo "... tcp_native.i"
+	@echo "... tcp_native.s"
+	@echo "... tcp_udp.o"
+	@echo "... tcp_udp.i"
+	@echo "... tcp_udp.s"
+	@echo "... tun.o"
+	@echo "... tun.i"
+	@echo "... tun.s"
+	@echo "... udp_tcpdump.o"
+	@echo "... udp_tcpdump.i"
+	@echo "... udp_tcpdump.s"
 	@echo "... webget.o"
 	@echo "... webget.i"
 	@echo "... webget.s"

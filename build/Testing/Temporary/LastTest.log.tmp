@@ -1,0 +1,2563 @@
+Start testing: Nov 30 14:27 UTC
+----------------------------------------------------------
+1/169 Testing: t_wrapping_ints_cmp
+1/169 Test: t_wrapping_ints_cmp
+Command: "/home/hongyk/sponge/build/tests/wrapping_integers_cmp"
+Directory: /home/hongyk/sponge/build
+"t_wrapping_ints_cmp" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_cmp" end time: Nov 30 14:27 UTC
+"t_wrapping_ints_cmp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/169 Testing: t_wrapping_ints_unwrap
+2/169 Test: t_wrapping_ints_unwrap
+Command: "/home/hongyk/sponge/build/tests/wrapping_integers_unwrap"
+Directory: /home/hongyk/sponge/build
+"t_wrapping_ints_unwrap" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_unwrap" end time: Nov 30 14:27 UTC
+"t_wrapping_ints_unwrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/169 Testing: t_wrapping_ints_wrap
+3/169 Test: t_wrapping_ints_wrap
+Command: "/home/hongyk/sponge/build/tests/wrapping_integers_wrap"
+Directory: /home/hongyk/sponge/build
+"t_wrapping_ints_wrap" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_wrap" end time: Nov 30 14:27 UTC
+"t_wrapping_ints_wrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/169 Testing: t_wrapping_ints_roundtrip
+4/169 Test: t_wrapping_ints_roundtrip
+Command: "/home/hongyk/sponge/build/tests/wrapping_integers_roundtrip"
+Directory: /home/hongyk/sponge/build
+"t_wrapping_ints_roundtrip" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_roundtrip" end time: Nov 30 14:27 UTC
+"t_wrapping_ints_roundtrip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/169 Testing: t_recv_connect
+5/169 Test: t_recv_connect
+Command: "/home/hongyk/sponge/build/tests/recv_connect"
+Directory: /home/hongyk/sponge/build
+"t_recv_connect" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_connect" end time: Nov 30 14:27 UTC
+"t_recv_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/169 Testing: t_recv_transmit
+6/169 Test: t_recv_transmit
+Command: "/home/hongyk/sponge/build/tests/recv_transmit"
+Directory: /home/hongyk/sponge/build
+"t_recv_transmit" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_transmit" end time: Nov 30 14:27 UTC
+"t_recv_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/169 Testing: t_recv_window
+7/169 Test: t_recv_window
+Command: "/home/hongyk/sponge/build/tests/recv_window"
+Directory: /home/hongyk/sponge/build
+"t_recv_window" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_window" end time: Nov 30 14:27 UTC
+"t_recv_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/169 Testing: t_recv_reorder
+8/169 Test: t_recv_reorder
+Command: "/home/hongyk/sponge/build/tests/recv_reorder"
+Directory: /home/hongyk/sponge/build
+"t_recv_reorder" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_reorder" end time: Nov 30 14:27 UTC
+"t_recv_reorder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/169 Testing: t_recv_close
+9/169 Test: t_recv_close
+Command: "/home/hongyk/sponge/build/tests/recv_close"
+Directory: /home/hongyk/sponge/build
+"t_recv_close" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_close" end time: Nov 30 14:27 UTC
+"t_recv_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/169 Testing: t_recv_special
+10/169 Test: t_recv_special
+Command: "/home/hongyk/sponge/build/tests/recv_special"
+Directory: /home/hongyk/sponge/build
+"t_recv_special" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_special" end time: Nov 30 14:27 UTC
+"t_recv_special" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/169 Testing: t_send_connect
+11/169 Test: t_send_connect
+Command: "/home/hongyk/sponge/build/tests/send_connect"
+Directory: /home/hongyk/sponge/build
+"t_send_connect" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_connect" end time: Nov 30 14:27 UTC
+"t_send_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/169 Testing: t_send_transmit
+12/169 Test: t_send_transmit
+Command: "/home/hongyk/sponge/build/tests/send_transmit"
+Directory: /home/hongyk/sponge/build
+"t_send_transmit" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_transmit" end time: Nov 30 14:27 UTC
+"t_send_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/169 Testing: t_send_retx
+13/169 Test: t_send_retx
+Command: "/home/hongyk/sponge/build/tests/send_retx"
+Directory: /home/hongyk/sponge/build
+"t_send_retx" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_retx" end time: Nov 30 14:27 UTC
+"t_send_retx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/169 Testing: t_send_window
+14/169 Test: t_send_window
+Command: "/home/hongyk/sponge/build/tests/send_window"
+Directory: /home/hongyk/sponge/build
+"t_send_window" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_window" end time: Nov 30 14:27 UTC
+"t_send_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/169 Testing: t_send_ack
+15/169 Test: t_send_ack
+Command: "/home/hongyk/sponge/build/tests/send_ack"
+Directory: /home/hongyk/sponge/build
+"t_send_ack" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_ack" end time: Nov 30 14:27 UTC
+"t_send_ack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/169 Testing: t_send_close
+16/169 Test: t_send_close
+Command: "/home/hongyk/sponge/build/tests/send_close"
+Directory: /home/hongyk/sponge/build
+"t_send_close" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_close" end time: Nov 30 14:27 UTC
+"t_send_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/169 Testing: t_send_extra
+17/169 Test: t_send_extra
+Command: "/home/hongyk/sponge/build/tests/send_extra"
+Directory: /home/hongyk/sponge/build
+"t_send_extra" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_extra" end time: Nov 30 14:27 UTC
+"t_send_extra" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/169 Testing: t_strm_reassem_single
+18/169 Test: t_strm_reassem_single
+Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_single"
+Directory: /home/hongyk/sponge/build
+"t_strm_reassem_single" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_single" end time: Nov 30 14:27 UTC
+"t_strm_reassem_single" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/169 Testing: t_strm_reassem_seq
+19/169 Test: t_strm_reassem_seq
+Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_seq"
+Directory: /home/hongyk/sponge/build
+"t_strm_reassem_seq" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_seq" end time: Nov 30 14:27 UTC
+"t_strm_reassem_seq" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/169 Testing: t_strm_reassem_dup
+20/169 Test: t_strm_reassem_dup
+Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_dup"
+Directory: /home/hongyk/sponge/build
+"t_strm_reassem_dup" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_dup" end time: Nov 30 14:27 UTC
+"t_strm_reassem_dup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/169 Testing: t_strm_reassem_holes
+21/169 Test: t_strm_reassem_holes
+Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_holes"
+Directory: /home/hongyk/sponge/build
+"t_strm_reassem_holes" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_holes" end time: Nov 30 14:27 UTC
+"t_strm_reassem_holes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/169 Testing: t_strm_reassem_many
+22/169 Test: t_strm_reassem_many
+Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_many"
+Directory: /home/hongyk/sponge/build
+"t_strm_reassem_many" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.20 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_many" end time: Nov 30 14:27 UTC
+"t_strm_reassem_many" time elapsed: 00:00:01
+----------------------------------------------------------
+
+23/169 Testing: t_strm_reassem_overlapping
+23/169 Test: t_strm_reassem_overlapping
+Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_overlapping"
+Directory: /home/hongyk/sponge/build
+"t_strm_reassem_overlapping" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_overlapping" end time: Nov 30 14:27 UTC
+"t_strm_reassem_overlapping" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/169 Testing: t_strm_reassem_win
+24/169 Test: t_strm_reassem_win
+Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_win"
+Directory: /home/hongyk/sponge/build
+"t_strm_reassem_win" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.58 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_win" end time: Nov 30 14:27 UTC
+"t_strm_reassem_win" time elapsed: 00:00:01
+----------------------------------------------------------
+
+25/169 Testing: t_strm_reassem_cap
+25/169 Test: t_strm_reassem_cap
+Command: "/home/hongyk/sponge/build/tests/fsm_stream_reassembler_cap"
+Directory: /home/hongyk/sponge/build
+"t_strm_reassem_cap" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_cap" end time: Nov 30 14:27 UTC
+"t_strm_reassem_cap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/169 Testing: t_byte_stream_construction
+26/169 Test: t_byte_stream_construction
+Command: "/home/hongyk/sponge/build/tests/byte_stream_construction"
+Directory: /home/hongyk/sponge/build
+"t_byte_stream_construction" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_construction" end time: Nov 30 14:27 UTC
+"t_byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/169 Testing: t_byte_stream_one_write
+27/169 Test: t_byte_stream_one_write
+Command: "/home/hongyk/sponge/build/tests/byte_stream_one_write"
+Directory: /home/hongyk/sponge/build
+"t_byte_stream_one_write" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_one_write" end time: Nov 30 14:27 UTC
+"t_byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/169 Testing: t_byte_stream_two_writes
+28/169 Test: t_byte_stream_two_writes
+Command: "/home/hongyk/sponge/build/tests/byte_stream_two_writes"
+Directory: /home/hongyk/sponge/build
+"t_byte_stream_two_writes" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_two_writes" end time: Nov 30 14:27 UTC
+"t_byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/169 Testing: t_byte_stream_capacity
+29/169 Test: t_byte_stream_capacity
+Command: "/home/hongyk/sponge/build/tests/byte_stream_capacity"
+Directory: /home/hongyk/sponge/build
+"t_byte_stream_capacity" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.74 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_capacity" end time: Nov 30 14:27 UTC
+"t_byte_stream_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/169 Testing: t_byte_stream_many_writes
+30/169 Test: t_byte_stream_many_writes
+Command: "/home/hongyk/sponge/build/tests/byte_stream_many_writes"
+Directory: /home/hongyk/sponge/build
+"t_byte_stream_many_writes" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_many_writes" end time: Nov 30 14:27 UTC
+"t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/169 Testing: t_webget
+31/169 Test: t_webget
+Command: "/home/hongyk/sponge/tests/webget_t.sh"
+Directory: /home/hongyk/sponge/build
+"t_webget" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+<end of output>
+Test time =   1.58 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Nov 30 14:27 UTC
+"t_webget" time elapsed: 00:00:01
+----------------------------------------------------------
+
+Unable to find executable: net_interface
+32/169 Testing: arp_network_interface
+32/169 Test: arp_network_interface
+Command: ""
+Directory: /home/hongyk/sponge/build
+"arp_network_interface" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"arp_network_interface" end time: Nov 30 14:27 UTC
+"arp_network_interface" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: network_simulator
+33/169 Testing: router_test
+33/169 Test: router_test
+Command: ""
+Directory: /home/hongyk/sponge/build
+"router_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"router_test" end time: Nov 30 14:27 UTC
+"router_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/169 Testing: t_tcp_parser
+34/169 Test: t_tcp_parser
+Command: "/home/hongyk/sponge/build/tests/tcp_parser" "/home/hongyk/sponge/tests/ipv4_parser.data"
+Directory: /home/hongyk/sponge/build
+"t_tcp_parser" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_tcp_parser" end time: Nov 30 14:27 UTC
+"t_tcp_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/169 Testing: t_ipv4_parser
+35/169 Test: t_ipv4_parser
+Command: "/home/hongyk/sponge/build/tests/ipv4_parser" "/home/hongyk/sponge/tests/ipv4_parser.data"
+Directory: /home/hongyk/sponge/build
+"t_ipv4_parser" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_parser" end time: Nov 30 14:27 UTC
+"t_ipv4_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/169 Testing: t_active_close
+36/169 Test: t_active_close
+Command: "/home/hongyk/sponge/build/tests/fsm_active_close"
+Directory: /home/hongyk/sponge/build
+"t_active_close" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_active_close" end time: Nov 30 14:27 UTC
+"t_active_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/169 Testing: t_passive_close
+37/169 Test: t_passive_close
+Command: "/home/hongyk/sponge/build/tests/fsm_passive_close"
+Directory: /home/hongyk/sponge/build
+"t_passive_close" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_passive_close" end time: Nov 30 14:27 UTC
+"t_passive_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/169 Testing: t_ack_rst
+39/169 Test: t_ack_rst
+Command: "/home/hongyk/sponge/build/tests/fsm_ack_rst_relaxed"
+Directory: /home/hongyk/sponge/build
+"t_ack_rst" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+Test 1
+Test Failure on expectation:
+	Expectation: TCP has 0 unassembled bytes
+
+Failure message:
+	The TCP has `unassembled_bytes = 1`, but unassembled_bytes was expected to be `0`
+
+List of steps that executed successfully:
+	Action:      connect
+	Expectation: exactly one segment sent with (A=0,R=0,S=1,F=0,seqno=2147483647,payload_size=0,)
+	Action:      packet arrives: Header(flags=SA,seqno=2147483647,ack=2147483648,win=137) with no payload
+	Expectation: exactly one segment sent with (A=1,R=0,S=0,F=0,ackno=2147483648,payload_size=0,)
+	Action:      packet arrives: Header(flags=A,seqno=2147483648,ack=2147483648,win=137) with no payload
+	Expectation: no (more) segments sent
+	Action:      packet arrives: Header(flags=A,seqno=2147483648,ack=2147483647,win=137) with no payload
+	Expectation: no (more) segments sent
+	Action:      packet arrives: Header(flags=A,seqno=2147483647,ack=2147483648,win=137) with 1 data bytes "<1>"
+
+Note:
+	test 1 failed: seg queued on early seqno
+
+Warning: Unclean shutdown of TCPConnection
+The TCP has `unassembled_bytes = 1`, but unassembled_bytes was expected to be `0`
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"t_ack_rst" end time: Nov 30 14:27 UTC
+"t_ack_rst" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/169 Testing: t_ack_rst_win
+41/169 Test: t_ack_rst_win
+Command: "/home/hongyk/sponge/build/tests/fsm_ack_rst_win_relaxed"
+Directory: /home/hongyk/sponge/build
+"t_ack_rst_win" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+Test Failure on expectation:
+	Expectation: TCP has 0 unassembled bytes
+
+Failure message:
+	The TCP has `unassembled_bytes = 1`, but unassembled_bytes was expected to be `0`
+
+List of steps that executed successfully:
+	Action:      connect
+	Expectation: exactly one segment sent with (A=0,R=0,S=1,F=0,seqno=2147483647,payload_size=0,)
+	Action:      packet arrives: Header(flags=SA,seqno=2147483647,ack=2147483648,win=137) with no payload
+	Expectation: exactly one segment sent with (A=1,R=0,S=0,F=0,ackno=2147483648,payload_size=0,)
+	Action:      packet arrives: Header(flags=A,seqno=2147483648,ack=2147483648,win=137) with no payload
+	Expectation: no (more) segments sent
+	Action:      packet arrives: Header(flags=A,seqno=2147483648,ack=2147483647,win=137) with no payload
+	Expectation: no (more) segments sent
+	Action:      packet arrives: Header(flags=A,seqno=2147483647,ack=2147483648,win=137) with 1 data bytes "<1>"
+
+Note:
+	test 1 failed: seg queued on early seqno
+
+Warning: Unclean shutdown of TCPConnection
+The TCP has `unassembled_bytes = 1`, but unassembled_bytes was expected to be `0`
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"t_ack_rst_win" end time: Nov 30 14:27 UTC
+"t_ack_rst_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/169 Testing: t_connect
+43/169 Test: t_connect
+Command: "/home/hongyk/sponge/build/tests/fsm_connect_relaxed"
+Directory: /home/hongyk/sponge/build
+"t_connect" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_connect" end time: Nov 30 14:27 UTC
+"t_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/169 Testing: t_listen
+45/169 Test: t_listen
+Command: "/home/hongyk/sponge/build/tests/fsm_listen_relaxed"
+Directory: /home/hongyk/sponge/build
+"t_listen" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_listen" end time: Nov 30 14:27 UTC
+"t_listen" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/169 Testing: t_winsize
+46/169 Test: t_winsize
+Command: "/home/hongyk/sponge/build/tests/fsm_winsize"
+Directory: /home/hongyk/sponge/build
+"t_winsize" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"t_winsize" end time: Nov 30 14:27 UTC
+"t_winsize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/169 Testing: t_retx
+48/169 Test: t_retx
+Command: "/home/hongyk/sponge/build/tests/fsm_retx_relaxed"
+Directory: /home/hongyk/sponge/build
+"t_retx" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_retx" end time: Nov 30 14:27 UTC
+"t_retx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/169 Testing: t_retx_win
+49/169 Test: t_retx_win
+Command: "/home/hongyk/sponge/build/tests/fsm_retx_win"
+Directory: /home/hongyk/sponge/build
+"t_retx_win" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_retx_win" end time: Nov 30 14:27 UTC
+"t_retx_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/169 Testing: t_loopback
+50/169 Test: t_loopback
+Command: "/home/hongyk/sponge/build/tests/fsm_loopback"
+Directory: /home/hongyk/sponge/build
+"t_loopback" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   1.15 sec
+----------------------------------------------------------
+Test Passed.
+"t_loopback" end time: Nov 30 14:27 UTC
+"t_loopback" time elapsed: 00:00:01
+----------------------------------------------------------
+
+51/169 Testing: t_loopback_win
+51/169 Test: t_loopback_win
+Command: "/home/hongyk/sponge/build/tests/fsm_loopback_win"
+Directory: /home/hongyk/sponge/build
+"t_loopback_win" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.65 sec
+----------------------------------------------------------
+Test Passed.
+"t_loopback_win" end time: Nov 30 14:27 UTC
+"t_loopback_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/169 Testing: t_reorder
+52/169 Test: t_reorder
+Command: "/home/hongyk/sponge/build/tests/fsm_reorder"
+Directory: /home/hongyk/sponge/build
+"t_reorder" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   1.41 sec
+----------------------------------------------------------
+Test Passed.
+"t_reorder" end time: Nov 30 14:27 UTC
+"t_reorder" time elapsed: 00:00:01
+----------------------------------------------------------
+
+53/169 Testing: t_address_dt
+53/169 Test: t_address_dt
+Command: "/home/hongyk/sponge/build/doctests/address_dt"
+Directory: /home/hongyk/sponge/build
+"t_address_dt" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_address_dt" end time: Nov 30 14:27 UTC
+"t_address_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/169 Testing: t_parser_dt
+54/169 Test: t_parser_dt
+Command: "/home/hongyk/sponge/build/doctests/parser_dt"
+Directory: /home/hongyk/sponge/build
+"t_parser_dt" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_parser_dt" end time: Nov 30 14:27 UTC
+"t_parser_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/169 Testing: t_socket_dt
+55/169 Test: t_socket_dt
+Command: "/home/hongyk/sponge/build/doctests/socket_dt"
+Directory: /home/hongyk/sponge/build
+"t_socket_dt" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_socket_dt" end time: Nov 30 14:27 UTC
+"t_socket_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/169 Testing: t_udp_client_send
+56/169 Test: t_udp_client_send
+Command: "/home/hongyk/sponge/txrx.sh" "-ucS"
+Directory: /home/hongyk/sponge/build
+"t_udp_client_send" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:28695... done.
+new connection from 169.254.144.1:35073.
+DEBUG: Outbound stream to 169.254.144.1:35073 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:28695 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:35073 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:28695 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:35073 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:28695 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_send" end time: Nov 30 14:27 UTC
+"t_udp_client_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/169 Testing: t_udp_server_send
+57/169 Test: t_udp_server_send
+Command: "/home/hongyk/sponge/txrx.sh" "-usS"
+Directory: /home/hongyk/sponge/build
+"t_udp_server_send" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:33457... done.
+new connection from 169.254.144.1:54297.
+DEBUG: Outbound stream to 169.254.144.1:33457 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:54297 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:54297 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:33457 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:33457 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:54297 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_send" end time: Nov 30 14:27 UTC
+"t_udp_server_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/169 Testing: t_udp_client_recv
+58/169 Test: t_udp_client_recv
+Command: "/home/hongyk/sponge/txrx.sh" "-ucR"
+Directory: /home/hongyk/sponge/build
+"t_udp_client_recv" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:7848... done.
+new connection from 169.254.144.1:38502.
+DEBUG: Outbound stream to 169.254.144.1:38502 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:7848 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:38502 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:7848 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:38502 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:7848 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_recv" end time: Nov 30 14:27 UTC
+"t_udp_client_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/169 Testing: t_udp_server_recv
+59/169 Test: t_udp_server_recv
+Command: "/home/hongyk/sponge/txrx.sh" "-usR"
+Directory: /home/hongyk/sponge/build
+"t_udp_server_recv" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:8442... done.
+new connection from 169.254.144.1:51171.
+DEBUG: Outbound stream to 169.254.144.1:51171 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:8442 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:51171 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:8442 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:51171 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:8442 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_recv" end time: Nov 30 14:27 UTC
+"t_udp_server_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/169 Testing: t_udp_client_dupl
+60/169 Test: t_udp_client_dupl
+Command: "/home/hongyk/sponge/txrx.sh" "-ucD"
+Directory: /home/hongyk/sponge/build
+"t_udp_client_dupl" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:2613... done.
+new connection from 169.254.144.1:53740.
+DEBUG: Outbound stream to 169.254.144.1:53740 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:2613 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:53740 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:2613 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:53740 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:2613 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_dupl" end time: Nov 30 14:27 UTC
+"t_udp_client_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/169 Testing: t_udp_server_dupl
+61/169 Test: t_udp_server_dupl
+Command: "/home/hongyk/sponge/txrx.sh" "-usD"
+Directory: /home/hongyk/sponge/build
+"t_udp_server_dupl" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:10241... done.
+new connection from 169.254.144.1:32964.
+DEBUG: Outbound stream to 169.254.144.1:32964 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:10241 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:32964 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:10241 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:32964 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:10241 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_dupl" end time: Nov 30 14:27 UTC
+"t_udp_server_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/169 Testing: t_ucS_1M_32k
+62/169 Test: t_ucS_1M_32k
+Command: "/home/hongyk/sponge/txrx.sh" "-ucSd" "1M" "-w" "32K"
+Directory: /home/hongyk/sponge/build
+"t_ucS_1M_32k" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:16866... done.
+new connection from 169.254.144.1:52528.
+DEBUG: Outbound stream to 169.254.144.1:52528 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:16866 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:52528 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:16866 finished (30768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:52528 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:16866 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_1M_32k" end time: Nov 30 14:27 UTC
+"t_ucS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/169 Testing: t_ucS_128K_8K
+63/169 Test: t_ucS_128K_8K
+Command: "/home/hongyk/sponge/txrx.sh" "-ucSd" "128K" "-w" "8K"
+Directory: /home/hongyk/sponge/build
+"t_ucS_128K_8K" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:12777... done.
+new connection from 169.254.144.1:57934.
+DEBUG: Outbound stream to 169.254.144.1:57934 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:12777 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:57934 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:12777 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:57934 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:12777 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K" end time: Nov 30 14:27 UTC
+"t_ucS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/169 Testing: t_ucS_16_1
+64/169 Test: t_ucS_16_1
+Command: "/home/hongyk/sponge/txrx.sh" "-ucSd" "16" "-w" "1"
+Directory: /home/hongyk/sponge/build
+"t_ucS_16_1" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:12359... done.
+new connection from 169.254.144.1:34576.
+DEBUG: Outbound stream to 169.254.144.1:34576 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:12359 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:12359DEBUG: Waiting for clean shutdown...  finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:34576 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:34576 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:12359 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_16_1" end time: Nov 30 14:27 UTC
+"t_ucS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/169 Testing: t_ucS_32K_d
+65/169 Test: t_ucS_32K_d
+Command: "/home/hongyk/sponge/txrx.sh" "-ucSd" "32K"
+Directory: /home/hongyk/sponge/build
+"t_ucS_32K_d" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:20401... done.
+new connection from 169.254.144.1:39584.
+DEBUG: Outbound stream to 169.254.144.1:39584 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:20401 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:39584 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:20401 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:39584 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:20401 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_32K_d" end time: Nov 30 14:27 UTC
+"t_ucS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/169 Testing: t_ucR_1M_32k
+66/169 Test: t_ucR_1M_32k
+Command: "/home/hongyk/sponge/txrx.sh" "-ucRd" "1M" "-w" "32K"
+Directory: /home/hongyk/sponge/build
+"t_ucR_1M_32k" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:29267... done.
+new connection from 169.254.144.1:49687.
+DEBUG: Outbound stream to 169.254.144.1:29267 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:49687 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:29267 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:49687 finished (30768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:29267 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:49687 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.61 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_1M_32k" end time: Nov 30 14:27 UTC
+"t_ucR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/169 Testing: t_ucR_128K_8K
+67/169 Test: t_ucR_128K_8K
+Command: "/home/hongyk/sponge/txrx.sh" "-ucRd" "128K" "-w" "8K"
+Directory: /home/hongyk/sponge/build
+"t_ucR_128K_8K" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:14191... done.
+new connection from 169.254.144.1:37903.
+DEBUG: Outbound stream to 169.254.144.1:14191 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:37903 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:14191 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:37903 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:14191 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:37903 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K" end time: Nov 30 14:27 UTC
+"t_ucR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/169 Testing: t_ucR_16_1
+68/169 Test: t_ucR_16_1
+Command: "/home/hongyk/sponge/txrx.sh" "-ucRd" "16" "-w" "1"
+Directory: /home/hongyk/sponge/build
+"t_ucR_16_1" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:10718... done.
+new connection from 169.254.144.1:55812.
+DEBUG: Outbound stream to 169.254.144.1:55812 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:10718 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:10718 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:55812 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:10718 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:55812 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_16_1" end time: Nov 30 14:27 UTC
+"t_ucR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/169 Testing: t_ucR_32K_d
+69/169 Test: t_ucR_32K_d
+Command: "/home/hongyk/sponge/txrx.sh" "-ucRd" "32K"
+Directory: /home/hongyk/sponge/build
+"t_ucR_32K_d" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:25873... done.
+new connection from 169.254.144.1:33012.
+DEBUG: Outbound stream to 169.254.144.1:33012 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:25873 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:33012 finished cleanly.
+DEBUG: Inbound stream from 169.254.144.1:25873 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:25873 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:33012 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+DEBUG: TCP connection finished done.
+cleanly.
+done.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_32K_d" end time: Nov 30 14:27 UTC
+"t_ucR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/169 Testing: t_ucD_1M_32k
+70/169 Test: t_ucD_1M_32k
+Command: "/home/hongyk/sponge/txrx.sh" "-ucDd" "1M" "-w" "32K"
+Directory: /home/hongyk/sponge/build
+"t_ucD_1M_32k" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:10477... done.
+new connection from 169.254.144.1:39644.
+DEBUG: Outbound stream to 169.254.144.1:39644 finished (30768 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:10477 finished (31000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:10477 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:39644 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:39644 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:10477 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.85 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_1M_32k" end time: Nov 30 14:27 UTC
+"t_ucD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/169 Testing: t_ucD_128K_8K
+71/169 Test: t_ucD_128K_8K
+Command: "/home/hongyk/sponge/txrx.sh" "-ucDd" "128K" "-w" "8K"
+Directory: /home/hongyk/sponge/build
+"t_ucD_128K_8K" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:30994... done.
+new connection from 169.254.144.1:57400.
+DEBUG: Outbound stream to 169.254.144.1:57400 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:30994 finished (7192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:30994 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:57400 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:57400 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:30994 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K" end time: Nov 30 14:27 UTC
+"t_ucD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/169 Testing: t_ucD_16_1
+72/169 Test: t_ucD_16_1
+Command: "/home/hongyk/sponge/txrx.sh" "-ucDd" "16" "-w" "1"
+Directory: /home/hongyk/sponge/build
+"t_ucD_16_1" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:1280... done.
+new connection from 169.254.144.1:55984.
+DEBUG: Outbound stream to 169.254.144.1:1280 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:55984 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:1280 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:55984 finished cleanly.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:1280 has been fully acknowledged.
+169.254.144.1:55984 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_16_1" end time: Nov 30 14:27 UTC
+"t_ucD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/169 Testing: t_ucD_32K_d
+73/169 Test: t_ucD_32K_d
+Command: "/home/hongyk/sponge/txrx.sh" "-ucDd" "32K"
+Directory: /home/hongyk/sponge/build
+"t_ucD_32K_d" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:20895... done.
+new connection from 169.254.144.1:37958.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:20895 finished (32769 bytes still in flight).
+169.254.144.1:37958 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:37958 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:20895 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:20895 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:37958 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_32K_d" end time: Nov 30 14:27 UTC
+"t_ucD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/169 Testing: t_usS_1M_32k
+74/169 Test: t_usS_1M_32k
+Command: "/home/hongyk/sponge/txrx.sh" "-usSd" "1M" "-w" "32K"
+Directory: /home/hongyk/sponge/build
+"t_usS_1M_32k" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:14119... done.
+new connection from 169.254.144.1:53764.
+DEBUG: Outbound stream to 169.254.144.1:14119 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:53764 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:14119 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:53764 finished (30768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:14119 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:53764 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_1M_32k" end time: Nov 30 14:27 UTC
+"t_usS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/169 Testing: t_usS_128K_8K
+75/169 Test: t_usS_128K_8K
+Command: "/home/hongyk/sponge/txrx.sh" "-usSd" "128K" "-w" "8K"
+Directory: /home/hongyk/sponge/build
+"t_usS_128K_8K" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:17691... done.
+new connection from 169.254.144.1:37597.
+DEBUG: Outbound stream to 169.254.144.1:17691 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:37597 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:17691 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:37597 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:17691 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:37597 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K" end time: Nov 30 14:27 UTC
+"t_usS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/169 Testing: t_usS_16_1
+76/169 Test: t_usS_16_1
+Command: "/home/hongyk/sponge/txrx.sh" "-usSd" "16" "-w" "1"
+Directory: /home/hongyk/sponge/build
+"t_usS_16_1" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:26387... done.
+new connection from 169.254.144.1:59496.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:26387 finished (1 byte still in flight).
+169.254.144.1:59496 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:59496 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:26387 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:26387 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:59496 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_16_1" end time: Nov 30 14:27 UTC
+"t_usS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/169 Testing: t_usS_32K_d
+77/169 Test: t_usS_32K_d
+Command: "/home/hongyk/sponge/txrx.sh" "-usSd" "32K"
+Directory: /home/hongyk/sponge/build
+"t_usS_32K_d" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:8614... done.
+new connection from 169.254.144.1:34415.
+DEBUG: Outbound stream to 169.254.144.1:8614 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:34415 finished (32769 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:34415 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:8614 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:8614 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:34415 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_32K_d" end time: Nov 30 14:27 UTC
+"t_usS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/169 Testing: t_usR_1M_32k
+78/169 Test: t_usR_1M_32k
+Command: "/home/hongyk/sponge/txrx.sh" "-usRd" "1M" "-w" "32K"
+Directory: /home/hongyk/sponge/build
+"t_usR_1M_32k" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:9742... done.
+new connection from 169.254.144.1:46043.
+DEBUG: Outbound stream to 169.254.144.1:46043 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:9742 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:46043 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:9742 finished (30768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:46043 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:9742 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.61 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_1M_32k" end time: Nov 30 14:27 UTC
+"t_usR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/169 Testing: t_usR_128K_8K
+79/169 Test: t_usR_128K_8K
+Command: "/home/hongyk/sponge/txrx.sh" "-usRd" "128K" "-w" "8K"
+Directory: /home/hongyk/sponge/build
+"t_usR_128K_8K" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:12521... done.
+new connection from 169.254.144.1:47259.
+DEBUG: Outbound stream to 169.254.144.1:47259 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:12521 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:47259 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:12521 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:47259 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:12521 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K" end time: Nov 30 14:27 UTC
+"t_usR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/169 Testing: t_usR_16_1
+80/169 Test: t_usR_16_1
+Command: "/home/hongyk/sponge/txrx.sh" "-usRd" "16" "-w" "1"
+Directory: /home/hongyk/sponge/build
+"t_usR_16_1" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:13346... done.
+new connection from 169.254.144.1:57194.
+DEBUG: Outbound stream to 169.254.144.1:57194 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:13346 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:57194 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:13346 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:57194 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:13346 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_16_1" end time: Nov 30 14:27 UTC
+"t_usR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/169 Testing: t_usR_32K_d
+81/169 Test: t_usR_32K_d
+Command: "/home/hongyk/sponge/txrx.sh" "-usRd" "32K"
+Directory: /home/hongyk/sponge/build
+"t_usR_32K_d" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:31233... done.
+new connection from 169.254.144.1:36781.
+DEBUG: Outbound stream to 169.254.144.1:36781 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:31233 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:36781 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:31233 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:36781 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:31233 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_32K_d" end time: Nov 30 14:27 UTC
+"t_usR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/169 Testing: t_usD_1M_32k
+82/169 Test: t_usD_1M_32k
+Command: "/home/hongyk/sponge/txrx.sh" "-usDd" "1M" "-w" "32K"
+Directory: /home/hongyk/sponge/build
+"t_usD_1M_32k" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:28562... done.
+new connection from 169.254.144.1:42773.
+DEBUG: Outbound stream to 169.254.144.1:28562 finished (31768 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:42773 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:28562 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:42773 finished cleanly.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:28562169.254.144.1:42773 has been fully acknowledged.
+ has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+DEBUG: TCP connection finished cleanly.
+done.
+done.
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_1M_32k" end time: Nov 30 14:27 UTC
+"t_usD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/169 Testing: t_usD_128K_8K
+83/169 Test: t_usD_128K_8K
+Command: "/home/hongyk/sponge/txrx.sh" "-usDd" "128K" "-w" "8K"
+Directory: /home/hongyk/sponge/build
+"t_usD_128K_8K" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:3758... done.
+new connection from 169.254.144.1:49576.
+DEBUG: Outbound stream to 169.254.144.1:49576 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:3758 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3758 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:49576 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:49576 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:3758 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K" end time: Nov 30 14:27 UTC
+"t_usD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/169 Testing: t_usD_16_1
+84/169 Test: t_usD_16_1
+Command: "/home/hongyk/sponge/txrx.sh" "-usDd" "16" "-w" "1"
+Directory: /home/hongyk/sponge/build
+"t_usD_16_1" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:11565... done.
+new connection from 169.254.144.1:60204.
+DEBUG: Outbound stream to 169.254.144.1:60204 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:11565 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:11565 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:60204 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:60204 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:11565 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+DEBUG: Waiting for clean shutdown... done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_16_1" end time: Nov 30 14:27 UTC
+"t_usD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/169 Testing: t_usD_32K_d
+85/169 Test: t_usD_32K_d
+Command: "/home/hongyk/sponge/txrx.sh" "-usDd" "32K"
+Directory: /home/hongyk/sponge/build
+"t_usD_32K_d" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:3227... done.
+new connection from 169.254.144.1:52428.
+DEBUG: Outbound stream to 169.254.144.1:52428 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:3227 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3227 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:52428 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:52428 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:3227 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_32K_d" end time: Nov 30 14:27 UTC
+"t_usD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/169 Testing: t_ucS_128K_8K_l
+86/169 Test: t_ucS_128K_8K_l
+Command: "/home/hongyk/sponge/txrx.sh" "-ucSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucS_128K_8K_l" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:29416... done.
+new connection from 169.254.144.1:57234.
+DEBUG: Outbound stream to 169.254.144.1:57234 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:29416 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:57234 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:29416 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:57234 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:29416 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_l" end time: Nov 30 14:27 UTC
+"t_ucS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/169 Testing: t_ucS_128K_8K_L
+87/169 Test: t_ucS_128K_8K_L
+Command: "/home/hongyk/sponge/txrx.sh" "-ucSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucS_128K_8K_L" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:1355... done.
+new connection from 169.254.144.1:36740.
+DEBUG: Outbound stream to 169.254.144.1:36740 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:1355 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:36740 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:1355 finished (7000 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:36740 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:1355 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_L" end time: Nov 30 14:27 UTC
+"t_ucS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/169 Testing: t_ucS_128K_8K_lL
+88/169 Test: t_ucS_128K_8K_lL
+Command: "/home/hongyk/sponge/txrx.sh" "-ucSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucS_128K_8K_lL" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:6420... done.
+new connection from 169.254.144.1:53457.
+DEBUG: Outbound stream to 169.254.144.1:53457 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:6420 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:53457 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:6420 finished (8191 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:53457 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:6420 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.74 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_lL" end time: Nov 30 14:27 UTC
+"t_ucS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/169 Testing: t_ucR_128K_8K_l
+89/169 Test: t_ucR_128K_8K_l
+Command: "/home/hongyk/sponge/txrx.sh" "-ucRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucR_128K_8K_l" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:11396... done.
+new connection from 169.254.144.1:59298.
+DEBUG: Outbound stream to 169.254.144.1:11396 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:59298 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:11396 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:59298 finished (7192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:11396 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:59298 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_l" end time: Nov 30 14:27 UTC
+"t_ucR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/169 Testing: t_ucR_128K_8K_L
+90/169 Test: t_ucR_128K_8K_L
+Command: "/home/hongyk/sponge/txrx.sh" "-ucRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucR_128K_8K_L" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:21268... done.
+new connection from 169.254.144.1:35781.
+DEBUG: Outbound stream to 169.254.144.1:21268 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:35781 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:21268 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:35781 finished (8000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:21268 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:35781 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_L" end time: Nov 30 14:27 UTC
+"t_ucR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/169 Testing: t_ucR_128K_8K_lL
+91/169 Test: t_ucR_128K_8K_lL
+Command: "/home/hongyk/sponge/txrx.sh" "-ucRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucR_128K_8K_lL" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:22415... done.
+new connection from 169.254.144.1:41934.
+DEBUG: Outbound stream to 169.254.144.1:22415 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:41934 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:22415 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:41934 finished (8191 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:22415 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:41934 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.61 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_lL" end time: Nov 30 14:27 UTC
+"t_ucR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+92/169 Testing: t_ucD_128K_8K_l
+92/169 Test: t_ucD_128K_8K_l
+Command: "/home/hongyk/sponge/txrx.sh" "-ucDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucD_128K_8K_l" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:27083... done.
+new connection from 169.254.144.1:43588.
+DEBUG: Outbound stream to 169.254.144.1:27083 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:43588 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:27083 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:43588 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:27083 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:43588 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_l" end time: Nov 30 14:27 UTC
+"t_ucD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/169 Testing: t_ucD_128K_8K_L
+93/169 Test: t_ucD_128K_8K_L
+Command: "/home/hongyk/sponge/txrx.sh" "-ucDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucD_128K_8K_L" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:17922... done.
+new connection from 169.254.144.1:33947.
+DEBUG: Outbound stream to 169.254.144.1:33947 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:17922 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:33947 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:17922 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:33947 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:17922 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.55 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_L" end time: Nov 30 14:27 UTC
+"t_ucD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/169 Testing: t_ucD_128K_8K_lL
+94/169 Test: t_ucD_128K_8K_lL
+Command: "/home/hongyk/sponge/txrx.sh" "-ucDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_ucD_128K_8K_lL" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:11303... done.
+new connection from 169.254.144.1:42572.
+DEBUG: Outbound stream to 169.254.144.1:11303 finished (8191 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:42572 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:11303 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:42572 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:11303 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:42572 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.73 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_lL" end time: Nov 30 14:27 UTC
+"t_ucD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+95/169 Testing: t_usS_128K_8K_l
+95/169 Test: t_usS_128K_8K_l
+Command: "/home/hongyk/sponge/txrx.sh" "-usSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usS_128K_8K_l" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:28106... done.
+new connection from 169.254.144.1:51195.
+DEBUG: Outbound stream to 169.254.144.1:28106 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:28106 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:51195 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:51195 finished (7000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:28106 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:51195 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_l" end time: Nov 30 14:27 UTC
+"t_usS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+96/169 Testing: t_usS_128K_8K_L
+96/169 Test: t_usS_128K_8K_L
+Command: "/home/hongyk/sponge/txrx.sh" "-usSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usS_128K_8K_L" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:3142... done.
+new connection from 169.254.144.1:49197.
+DEBUG: Outbound stream to 169.254.144.1:3142 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:49197 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:3142 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:49197 finished (8192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:3142 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:49197 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.56 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_L" end time: Nov 30 14:27 UTC
+"t_usS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+97/169 Testing: t_usS_128K_8K_lL
+97/169 Test: t_usS_128K_8K_lL
+Command: "/home/hongyk/sponge/txrx.sh" "-usSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usS_128K_8K_lL" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:13043... done.
+new connection from 169.254.144.1:42587.
+DEBUG: Outbound stream to 169.254.144.1:13043 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:42587 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:13043 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:42587 finished (8191 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:13043 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:42587 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.74 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_lL" end time: Nov 30 14:27 UTC
+"t_usS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+98/169 Testing: t_usR_128K_8K_l
+98/169 Test: t_usR_128K_8K_l
+Command: "/home/hongyk/sponge/txrx.sh" "-usRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usR_128K_8K_l" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:11062... done.
+new connection from 169.254.144.1:60871.
+DEBUG: Outbound stream to 169.254.144.1:60871 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:11062 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:60871 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:11062 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:60871 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:11062 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.62 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_l" end time: Nov 30 14:27 UTC
+"t_usR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+99/169 Testing: t_usR_128K_8K_L
+99/169 Test: t_usR_128K_8K_L
+Command: "/home/hongyk/sponge/txrx.sh" "-usRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usR_128K_8K_L" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:28064... done.
+new connection from 169.254.144.1:50404.
+DEBUG: Outbound stream to 169.254.144.1:50404 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:28064 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:50404 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:28064 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:50404 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:28064 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_L" end time: Nov 30 14:27 UTC
+"t_usR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+100/169 Testing: t_usR_128K_8K_lL
+100/169 Test: t_usR_128K_8K_lL
+Command: "/home/hongyk/sponge/txrx.sh" "-usRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usR_128K_8K_lL" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:3111... done.
+new connection from 169.254.144.1:59038.
+DEBUG: Outbound stream to 169.254.144.1:59038 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3111 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:59038 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:3111 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:59038 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:3111 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.63 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_lL" end time: Nov 30 14:27 UTC
+"t_usR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+101/169 Testing: t_usD_128K_8K_l
+101/169 Test: t_usD_128K_8K_l
+Command: "/home/hongyk/sponge/txrx.sh" "-usDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usD_128K_8K_l" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:5594... done.
+new connection from 169.254.144.1:41706.
+DEBUG: Outbound stream to 169.254.144.1:41706 finished (8000 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:5594 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:41706 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:5594 finished (8192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:41706 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:5594 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_l" end time: Nov 30 14:27 UTC
+"t_usD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+102/169 Testing: t_usD_128K_8K_L
+102/169 Test: t_usD_128K_8K_L
+Command: "/home/hongyk/sponge/txrx.sh" "-usDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usD_128K_8K_L" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:6818... done.
+new connection from 169.254.144.1:38825.
+DEBUG: Outbound stream to 169.254.144.1:6818 finished (7000 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:38825 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:6818 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:38825 finished (8191 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:6818 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:38825 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.47 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_L" end time: Nov 30 14:27 UTC
+"t_usD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+103/169 Testing: t_usD_128K_8K_lL
+103/169 Test: t_usD_128K_8K_lL
+Command: "/home/hongyk/sponge/txrx.sh" "-usDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/hongyk/sponge/build
+"t_usD_128K_8K_lL" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:10919... done.
+new connection from 169.254.144.1:39097.
+DEBUG: Outbound stream to 169.254.144.1:10919 finished (6192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:39097 finished (8191 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:10919 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:39097 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:39097 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:10919 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.73 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_lL" end time: Nov 30 14:27 UTC
+"t_usD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+104/169 Testing: t_ipv4_client_send
+104/169 Test: t_ipv4_client_send
+Command: "/home/hongyk/sponge/txrx.sh" "-icS"
+Directory: /home/hongyk/sponge/build
+"t_ipv4_client_send" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:32052... done.
+DEBUG: Inbound stream from 169.254.145.9:32052 finished with an error/reset.
+DEBUG: TCP connection finished uncleanlyDEBUG: Waiting for clean shutdown... done.
+<end of output>
+Test time =  10.01 sec
+----------------------------------------------------------
+Test Failed.
+"t_ipv4_client_send" end time: Nov 30 14:27 UTC
+"t_ipv4_client_send" time elapsed: 00:00:10
+----------------------------------------------------------
+
+105/169 Testing: t_ipv4_server_send
+105/169 Test: t_ipv4_server_send
+Command: "/home/hongyk/sponge/txrx.sh" "-isS"
+Directory: /home/hongyk/sponge/build
+"t_ipv4_server_send" start time: Nov 30 14:27 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:7116... done.
+DEBUG: Inbound stream from 169.254.144.9:7116 finished with an error/reset.
+DEBUG: TCP connection finished uncleanlyDEBUG: Waiting for clean shutdown... done.
+<end of output>
+Test time =  10.01 sec
+----------------------------------------------------------
+Test Failed.
+"t_ipv4_server_send" end time: Nov 30 14:28 UTC
+"t_ipv4_server_send" time elapsed: 00:00:10
+----------------------------------------------------------
+
+106/169 Testing: t_ipv4_client_recv
+106/169 Test: t_ipv4_client_recv
+Command: "/home/hongyk/sponge/txrx.sh" "-icR"
+Directory: /home/hongyk/sponge/build
+"t_ipv4_client_recv" start time: Nov 30 14:28 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:32568... done.
+DEBUG: Inbound stream from 169.254.145.9:32568 finished with an error/reset.
+DEBUG: TCP connection finished uncleanlyDEBUG: Waiting for clean shutdown... done.
+<end of output>
+Test time =  10.01 sec
+----------------------------------------------------------
+Test Failed.
+"t_ipv4_client_recv" end time: Nov 30 14:28 UTC
+"t_ipv4_client_recv" time elapsed: 00:00:10
+----------------------------------------------------------
+
+107/169 Testing: t_ipv4_server_recv
+107/169 Test: t_ipv4_server_recv
+Command: "/home/hongyk/sponge/txrx.sh" "-isR"
+Directory: /home/hongyk/sponge/build
+"t_ipv4_server_recv" start time: Nov 30 14:28 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:27520... done.
+DEBUG: Inbound stream from 169.254.144.9:27520 finished with an error/reset.
+DEBUG: TCP connection finished uncleanlyError in _rt_connect
+<end of output>
+Test time =   6.34 sec
+----------------------------------------------------------
+Test Failed.
+"t_ipv4_server_recv" end time: Nov 30 14:28 UTC
+"t_ipv4_server_recv" time elapsed: 00:00:06
+----------------------------------------------------------
+
+108/169 Testing: t_ipv4_client_dupl
+108/169 Test: t_ipv4_client_dupl
+Command: "/home/hongyk/sponge/txrx.sh" "-icD"
+Directory: /home/hongyk/sponge/build
+"t_ipv4_client_dupl" start time: Nov 30 14:28 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:14482... done.
+DEBUG: Inbound stream from 169.254.145.9:14482 finished with an error/reset.
+DEBUG: TCP connection finished uncleanlyError in _rt_connect
+<end of output>
+Test time =   6.34 sec
+----------------------------------------------------------
+Test Failed.
+"t_ipv4_client_dupl" end time: Nov 30 14:28 UTC
+"t_ipv4_client_dupl" time elapsed: 00:00:06
+----------------------------------------------------------
+
+109/169 Testing: t_ipv4_server_dupl
+109/169 Test: t_ipv4_server_dupl
+Command: "/home/hongyk/sponge/txrx.sh" "-isD"
+Directory: /home/hongyk/sponge/build
+"t_ipv4_server_dupl" start time: Nov 30 14:28 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:14743... done.
+DEBUG: Inbound stream from 169.254.144.9:14743 finished with an error/reset.
+DEBUG: TCP connection finished uncleanlyError in _rt_connect
+<end of output>
+Test time =   6.32 sec
+----------------------------------------------------------
+Test Failed.
+"t_ipv4_server_dupl" end time: Nov 30 14:28 UTC
+"t_ipv4_server_dupl" time elapsed: 00:00:06
+----------------------------------------------------------
+
+110/169 Testing: t_icS_1M_32k
+110/169 Test: t_icS_1M_32k
+Command: "/home/hongyk/sponge/txrx.sh" "-icSd" "1M" "-w" "32K"
+Directory: /home/hongyk/sponge/build
+"t_icS_1M_32k" start time: Nov 30 14:28 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:12290... done.
+DEBUG: Inbound stream from 169.254.145.9:12290 finished with an error/reset.
+DEBUG: TCP connection finished uncleanlyError in _rt_connect
+<end of output>
+Test time =   6.35 sec
+----------------------------------------------------------
+Test Failed.
+"t_icS_1M_32k" end time: Nov 30 14:28 UTC
+"t_icS_1M_32k" time elapsed: 00:00:06
+----------------------------------------------------------
+
+111/169 Testing: t_icS_128K_8K
+111/169 Test: t_icS_128K_8K
+Command: "/home/hongyk/sponge/txrx.sh" "-icSd" "128K" "-w" "8K"
+Directory: /home/hongyk/sponge/build
+"t_icS_128K_8K" start time: Nov 30 14:28 UTC
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:25341... done.
+DEBUG: Inbound stream from 169.254.145.9:25341 finished with an error/reset.
+DEBUG: TCP connection finished uncleanlyError in _rt_connect
+<end of output>
+Test time =   6.33 sec
+----------------------------------------------------------
+Test Failed.
+"t_icS_128K_8K" end time: Nov 30 14:28 UTC
+"t_icS_128K_8K" time elapsed: 00:00:06
+----------------------------------------------------------
+
